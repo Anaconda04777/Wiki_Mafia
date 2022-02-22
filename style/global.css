@@ -9,15 +9,29 @@ al nostro progetto + cose utili*/
 
 /*header -----------------*/
 
-
+header {
+    margin-bottom: 1.5rem;
+}
+header * {
+    color: white;
+}
 
 /*footer ------------------*/
 
 footer {
     display: flex;
     justify-content: space-between;
-    
+    margin-top: 1.5rem;
 }
+
+footer * {
+    color: white;
+}
+
+main {
+    margin: 0 20vw;
+}
+
 
 footer .pagine {
     display: flex;
@@ -28,8 +42,19 @@ footer .pagine {
 footer .pagine a {
     margin: 0.5rem;
 }
+
 .social img {
     width: 20px;
+}
+
+.card {
+    padding: 0.7rem;
+    background: rgba(0, 0, 0, 0.116);
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 16px );
+    -webkit-backdrop-filter: blur( 16px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
 }
 /*------------------------*/
 
@@ -44,15 +69,24 @@ footer .pagine a {
     display: none;
 }
 
-/*paletta*/
+/*paletta (pensavo ad un marrone-verde (cerchiamo di trovare un compromesso sui gradient ;) ))*/
 
 .bg1 {
-    background-image: linear-gradient(135deg, #e2d1c3 0%, #e2d1c3 100%);
+    background: #2c2c2c;
 }
 
 .bg2 {
-
+    
+    background: #43a680;
+   
+    
 }
+
+.bg3 {
+    background: rgb(105,163,0);
+    background: linear-gradient(90deg, rgba(105,163,0,1) 0%, rgba(122,190,0,1) 100%);
+}
+
 
 
 /* margin predefiniti*/
