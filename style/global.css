@@ -1,0 +1,123 @@
+/*classi predefinite che daranno uno standard dimensionale 
+al nostro progetto + cose utili*/
+
+* {
+    margin: 0;
+    text-decoration: none;
+    color: black;
+}
+
+/*header -----------------*/
+
+
+
+/*footer ------------------*/
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+footer .pagine {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 30vh;
+}
+
+footer .pagine a {
+    margin: 0.5rem;
+}
+.social img {
+    width: 20px;
+}
+/*------------------------*/
+
+.centrator {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.hide {
+    display: none;
+}
+
+/*paletta*/
+
+.bg1 {
+    background-image: linear-gradient(135deg, #e2d1c3 0%, #e2d1c3 100%);
+}
+
+.bg2 {
+
+}
+
+
+/* margin predefiniti*/
+.m0 {
+    margin: 0.5rem;
+}
+.m1 {
+    margin: 1rem;
+}
+.m2 {
+    margin: 1.5rem;
+}
+.m3 {
+    margin: 2rem;
+}
+
+/* padding predefiniti*/
+.p0 {
+    padding: 0.5rem;
+}
+.p1 {
+    padding: 1rem;
+}
+.p2 {
+    padding: 1.5rem;
+}
+.p3 {
+    padding: 2rem;
+}
+
+
+/* font predefiniti*/
+
+.f-s {
+    font-size: small;
+}
+
+.f-m {
+    font-size: medium;
+}
+
+.f-l {
+    font-size: large;
+}
+
+.f-xl {
+    font-size: x-large;
+}
+
+.f-xxl {
+    font-size: xx-large;
+}
+
+/*border radius*/
+
+.b5 {
+    border-radius: 5px;
+}
+
+
+.b10 {
+    border-radius: 10px;
+}
+
+.b20 {
+    border-radius: 20px;
+}
+
