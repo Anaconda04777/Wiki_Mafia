@@ -1,0 +1,75 @@
+
+
+.card {                                         
+    background: linear-gradient(to right, #20403b 0px, transparent 150px), url(../Assets/lol.png)#20403b; 
+    background-repeat: no-repeat;
+    background-size: 45% 100%;
+    background-position: right;
+}
+
+.card * {
+    color: rgb(212, 212, 212);  
+}
+
+main {
+    margin: 0 15vw;
+}
+
+/*animazione card hover*/
+.card:hover {
+    transform: scale(1.05);
+    cursor: pointer;
+    
+}
+
+.card {
+    transition: all .2s ease-in-out;
+}
+
+/*modale*/
+
+.modal .card {
+    transform: none;
+    cursor: default;
+
+    background: #20403b;
+    color: rgb(212, 212, 212);  
+
+    max-width: 55%;
+    box-shadow: 0 8px 32px 0 rgba(35, 36, 44, 0.37);
+}
+
+.modal img {
+    height: 35vh;
+    width: 15vw;
+    float: left;
+}
+
+.modal .card div ul {
+    overflow: hidden;
+}
+
+.modal .card div:first-child {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* attenzione a cambiare la sequenza (guarda js) */
+.modal .card > div:first-child img {
+    width: 30px;
+    height: 30px;
+
+    transition: all .1s ease-in-out;
+}
+
+.modal .card > div:first-child img:hover {
+    width: 30px;
+    height: 30px;
+
+    cursor: pointer;
+    transform: scale(1.1);
+    cursor: pointer;
+    
+}
+
