@@ -2,9 +2,14 @@
 al nostro progetto + cose utili*/
 
 /*colori*/
-::root {
+:root {
     --color1: #2c2c2c;
-    --color2: #43a680;  
+    --color2: #43a680;
+    --color-cards: #20403b;  
+}
+
+body {
+    background-color: var(--color2);
 }
 
 * {
@@ -30,6 +35,8 @@ footer {
     display: flex;
     justify-content: space-between;
     margin-top: 1.5rem;
+    background-color: var(--color1);
+
 }
 
 footer * {
@@ -70,12 +77,17 @@ main {
 
 .card {
     padding: 0.7rem;
-    background: rgba(0, 0, 0, 0.116);
+    background: var(--color-cards);
     box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
     backdrop-filter: blur( 16px );
     -webkit-backdrop-filter: blur( 16px );
     border-radius: 10px;
     border: 1px solid rgba( 255, 255, 255, 0.18 );
+    
+}
+
+.card * {
+    color: rgb(212, 212, 212);  
 }
 /*------------------------*/
 

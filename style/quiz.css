@@ -1,0 +1,106 @@
+main {
+
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+
+
+
+/*tabella domander*/
+.tabella-domande .card{
+    max-width: 2vw;
+    max-height: 2vh;
+    background-color: var(--color2);
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.603);  
+
+
+}
+
+.tabella-domande .card {
+    color: black;
+}
+
+.tabella-domande {
+    display: flex;
+    max-width: 15vw;
+    height: fit-content;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    
+}
+
+.freccia::before {
+    content: url("../Assets/icons/freccia.png");
+    right: 28px;
+    bottom: 2px;
+    position: absolute;
+}
+/*-----------------*/
+
+
+/*domande*/
+
+
+li:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+    box-shadow:
+    14px 12.5px 8.4px rgba(0, 0, 0, 0.033),
+    31.6px 28.1px 22.4px rgba(0, 0, 0, 0.048),
+    100px 89px 80px rgba(0, 0, 0, 0.07);
+   
+}
+
+li {
+    transition: all .2s ease-in-out;
+    width: fit-content;
+    
+}
+
+/*colori risposte*/
+
+.red {
+    background-color: rgba(255, 0, 0, 0.712) !important;
+}
+
+.blue {
+    background-color: rgba(0, 0, 255, 0.712) !important;
+}
+
+/*animazione sost domanda*/
+
+.slide-left {
+    animation: slide-out 0.5s forwards;
+}
+
+.slide-right {
+    animation: slide-in 0.5s forwards;
+}
+
+
+@keyframes slide-in {
+    0% { 
+        transform: translateX(-100%); 
+        opacity: 0%;
+        
+    }
+    100% { 
+        transform: translateX(0%); 
+        opacity: 100%;
+    }
+}
+
+@keyframes slide-out {
+    0% { 
+        transform: translateX(0%); 
+        opacity: 100%;
+    }
+    100% { 
+        transform: translateX(-100%); 
+        opacity: 0%;
+        
+    }
+}

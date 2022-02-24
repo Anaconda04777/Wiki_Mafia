@@ -5,10 +5,6 @@
     background-position: right;
 }
 
-.card * {
-    color: rgb(212, 212, 212);  
-}
-
 main {
     margin: 0 15vw;
 }
@@ -30,7 +26,7 @@ main {
     cursor: default;
 
     background: #20403b;
-    color: rgb(212, 212, 212);  
+      
 
     max-width: 55%;
     box-shadow: 0 8px 32px 0 rgba(35, 36, 44, 0.37);
@@ -70,3 +66,22 @@ main {
 }
 
 
+.container {  
+    display: grid;
+    grid-auto-flow: row;
+    grid-template-areas:
+      "cosa-nostra camorra"
+      "ndrangheta sacra-corona-unita"
+      "stidda stidda";
+  }
+  
+  .cosa-nostra { grid-area: cosa-nostra; }
+  
+  .camorra { grid-area: camorra; }
+  
+  .ndrangheta { grid-area: ndrangheta; }
+  
+  .sacra-corona-unita { grid-area: sacra-corona-unita; }
+  
+  .stidda { grid-area: stidda; }
+  
