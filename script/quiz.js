@@ -54,8 +54,11 @@ window.onload = function() {
         if (ogg.tagName == "LI") {
             console.log(ogg.innerHTML)
             rispondi(ogg)
-            
         }
+    })
+
+    document.querySelector(".btn-chiudi").addEventListener("click", function(e) {
+        addHide(document.querySelector(".modal"))
     })
 
     creaElementi()
@@ -107,10 +110,19 @@ function rispondi(ogg) {
 
     domandaCorrente++
 
+    if (domandaCorrente === domande.length) {
+        console.log("dio")
+        divDomanda.removeEventListener("click")
+    }
+
     //mettere finestra modale
 
     addFreccia(listaTabDom[domandaCorrente])
     assStileFine(listaHtmlDomande[domandaCorrente], "slide-in", false)
+    
+}
+
+function eventListenerDomande() {
     
 }
 

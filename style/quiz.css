@@ -1,8 +1,5 @@
 main {
-
     display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
 }
 
 
@@ -29,6 +26,9 @@ main {
     flex-wrap: wrap;
     align-content: center;
     justify-content: center;
+    float: left;
+
+    margin-left: 0;
     
 }
 
@@ -37,12 +37,19 @@ main {
     right: 28px;
     bottom: 2px;
     position: absolute;
+    transform: scale(0.8);
 }
 /*-----------------*/
 
 
 /*domande*/
-
+.box-domande {
+    float: right;
+    
+    width: 100%;
+    display: flex;
+    
+}
 
 li:hover {
     transform: scale(1.1);
@@ -67,7 +74,7 @@ li {
 }
 
 .blue {
-    background-color: rgba(0, 0, 255, 0.712) !important;
+    background-color: rgba(0, 255, 170, 0.712) !important;
 }
 
 /*animazione sost domanda*/
@@ -103,4 +110,13 @@ li {
         opacity: 0%;
         
     }
+}
+
+/*modale*/
+
+.btn-chiudi {
+    background-color: var(--color1);
+    width: 40px;
+    height: 5px;
+    margin-top: 15px;
 }
