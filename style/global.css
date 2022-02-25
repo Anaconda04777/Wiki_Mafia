@@ -1,6 +1,17 @@
 /*classi predefinite che daranno uno standard dimensionale 
 al nostro progetto + cose utili*/
 
+/*colori*/
+:root {
+    --color1: #2c2c2c;
+    --color2: #43a680;
+    --color-cards: #20403b;  
+}
+
+body {
+    background-color: var(--color2);
+}
+
 * {
     margin: 0;
     text-decoration: none;
@@ -11,9 +22,22 @@ al nostro progetto + cose utili*/
 
 header {
     margin-bottom: 1.5rem;
+    background-color: var(--color1);
 }
+
 header * {
     color: white;
+    
+}
+
+.pagine a:hover {
+    font-size: large;
+    cursor: pointer;
+    
+}
+
+.pagine a {
+    transition: all .2s ease-in-out;
 }
 
 /*footer ------------------*/
@@ -22,12 +46,27 @@ footer {
     display: flex;
     justify-content: space-between;
     margin-top: 1.5rem;
+    background-color: var(--color1);
+
 }
 
 footer * {
     color: white;
 }
 
+footer .pagine {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 30vh;
+}
+
+footer .pagine a {
+    margin: 0.5rem;
+}
+
+.social img {
+    width: 20px;
+}
 /*-------------------------*/
 
 /*modal*/
@@ -47,29 +86,19 @@ main {
     margin: 0 20vw;
 }
 
-
-footer .pagine {
-    display: flex;
-    flex-wrap: wrap;
-    max-width: 30vh;
-}
-
-footer .pagine a {
-    margin: 0.5rem;
-}
-
-.social img {
-    width: 20px;
-}
-
 .card {
     padding: 0.7rem;
-    background: rgba(0, 0, 0, 0.116);
+    background: var(--color-cards);
     box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
     backdrop-filter: blur( 16px );
     -webkit-backdrop-filter: blur( 16px );
     border-radius: 10px;
     border: 1px solid rgba( 255, 255, 255, 0.18 );
+    
+}
+
+.card * {
+    color: rgb(212, 212, 212);  
 }
 /*------------------------*/
 
@@ -84,6 +113,9 @@ footer .pagine a {
     display: none;
 }
 
+.no-pointer {
+    pointer-events: none;
+}
 /*paletta (pensavo ad un marrone-verde (cerchiamo di trovare un compromesso sui gradient ;) ))*/
 
 .bg1 {
@@ -91,16 +123,9 @@ footer .pagine a {
 }
 
 .bg2 {
-    
     background: #43a680;
-   
-    
 }
 
-.bg3 {
-    background: rgb(105,163,0);
-    background: linear-gradient(90deg, rgba(105,163,0,1) 0%, rgba(122,190,0,1) 100%);
-}
 
 
 

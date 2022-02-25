@@ -16,6 +16,7 @@
 }
 
 /*animazione card hover*/
+
 .card:hover {
     transform: scale(1.05);
     cursor: pointer;
@@ -25,8 +26,37 @@
 .card {
     transition: all .2s ease-in-out;
 }
+/*tolgo animazione dell'immagine */
+.img-apertura.card {
+    padding: 0;
+}
+
+.img-apertura.card:hover {
+    padding: 0;
+    transform: none;
+    cursor: default;
+}
 /*-------------------------------*/
-.container {  display: grid;
+
+/*card con immagine*/
+.mafie-italia {
+    background: linear-gradient(to bottom, var(--color-cards) 10px, transparent 130px), url(../Assets/xi.jpeg),var(--color-cards);
+    background-repeat: no-repeat;
+    background-size: 100% 50%;
+    background-position: bottom;
+}
+
+.storia {
+    background: linear-gradient(to bottom, var(--color-cards) 10px, transparent 130px), url(../Assets/xi.jpeg),var(--color-cards);
+    background-repeat: no-repeat;
+    background-size: 100% 50%;
+    background-position: bottom;
+}
+
+
+
+.container {  
+    display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     
     gap: 15px 15px;
