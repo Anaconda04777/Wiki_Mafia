@@ -1,10 +1,16 @@
 main {
     display: flex;
+    margin-bottom: auto;
 }
 
 
+footer {
+    margin-top: 19.7%;
+}
 
-
+main.card {
+    background-color: rgba(255, 255, 255, 0.089);
+}
 /*tabella domander*/
 .tabella-domande .card{
     max-width: 2vw;
@@ -69,11 +75,11 @@ li {
 
 /*colori risposte*/
 
-.red {
+.sbagliato {
     background-color: rgba(255, 0, 0, 0.712) !important;
 }
 
-.blue {
+.corretto {
     background-color: rgba(0, 255, 170, 0.712) !important;
 }
 
@@ -119,4 +125,12 @@ li {
     width: 40px;
     height: 5px;
     margin-top: 15px;
+    cursor: pointer;
+
+    transition: all .2s ease-in-out;
+}
+
+.btn-chiudi:hover {
+    transform: scale(1.05);
+    cursor: pointer;    
 }

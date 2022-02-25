@@ -49,13 +49,7 @@ window.onload = function() {
     tabellaDomande = document.querySelector(".tabella-domande")
     divDomanda = document.querySelector(".domanda")
 
-    divDomanda.addEventListener("click", function(e) {
-        let ogg = e.target
-        if (ogg.tagName == "LI") {
-            console.log(ogg.innerHTML)
-            rispondi(ogg)
-        }
-    })
+    divDomanda.addEventListener("click", eventListenerDomande)
 
     document.querySelector(".btn-chiudi").addEventListener("click", function(e) {
         addHide(document.querySelector(".modal"))
@@ -98,33 +92,74 @@ function creaElementi() {
 
 }
 
+function eventListenerDomande(e) {
+    let ogg = e.target
+    if (ogg.tagName == "LI") {
+        console.log(ogg.innerHTML)
+        rispondi(ogg)
+    }
+}
+
+function quizFinito() {
+    removeHide(document.querySelector(".modal"))
+
+    listaTabDom.forEach(element => {
+        element.addEventListener("click", function (e) {
+            listaHtmlDomande.forEach(element => {
+                addHide(element)
+            });
+            let ogg = e.target
+            domandaCorrente = ogg.innerHTML-1
+            visualizzaDomanda()
+        })
+    });
+}
+
+
+function visualizzaDomanda() {
+    console.log(domandaCorrente)
+    removeHide(listaHtmlDomande[domandaCorrente])
+}
 
 function rispondi(ogg) {
     if (domande[domandaCorrente].rispostaCorretta == ogg.innerHTML) {
-        listaTabDom[domandaCorrente].classList.add("blue")
+        listaTabDom[domandaCorrente].classList.add("corretto")
+        ogg.classList.add("corretto")
     }
-    else listaTabDom[domandaCorrente].classList.add("red")
+    else {
+        listaTabDom[domandaCorrente].classList.add("sbagliato")
+        ogg.classList.add("sbagliato")
+
+        let l = listaHtmlDomande[domandaCorrente].querySelectorAll("li")
+
+        for (let i = 0; i < l.length; i++) {
+            if (l[i].innerHTML == domande[domandaCorrente].rispostaCorretta) {
+                l[i].classList.add("corretto")
+            }
+            
+        }
+    } 
+    
 
     removeFreccia(listaTabDom[domandaCorrente])
-    assStileFine(listaHtmlDomande[domandaCorrente], "slide-out", true)
+
+
+    if (domandaCorrente === domande.length-1) {
+        divDomanda.removeEventListener("click", eventListenerDomande)
+        divDomanda.classList.add("no-pointer")
+        quizFinito()
+    }
+    else addHide(listaHtmlDomande[domandaCorrente])
+    //mettere finestra modale
 
     domandaCorrente++
 
-    if (domandaCorrente === domande.length) {
-        console.log("dio")
-        divDomanda.removeEventListener("click")
-    }
-
-    //mettere finestra modale
-
+    removeHide(listaHtmlDomande[domandaCorrente])
     addFreccia(listaTabDom[domandaCorrente])
-    assStileFine(listaHtmlDomande[domandaCorrente], "slide-in", false)
     
 }
 
-function eventListenerDomande() {
-    
-}
+
 
 function addFreccia(ogg) {
     ogg.classList.add("freccia")
@@ -142,12 +177,12 @@ function removeHide(ogg) {
 }
 
 /*animazione da completare*/
-function assStileFine(ogg, classe, visione) {
+/*function assStileFine(ogg, classe, visione) {
     (async () => {
         ogg.classList.add(classe)
         await delay(TEMPOFINE);
         visione ? addHide(ogg) : removeHide(ogg)
         ogg.classList.toggle(classe)
       })();
-}
+}*/
 

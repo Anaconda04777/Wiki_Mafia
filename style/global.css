@@ -27,6 +27,17 @@ header {
 
 header * {
     color: white;
+    
+}
+
+.pagine a:hover {
+    font-size: large;
+    cursor: pointer;
+    
+}
+
+.pagine a {
+    transition: all .2s ease-in-out;
 }
 
 /*footer ------------------*/
@@ -102,6 +113,9 @@ main {
     display: none;
 }
 
+.no-pointer {
+    pointer-events: none;
+}
 /*paletta (pensavo ad un marrone-verde (cerchiamo di trovare un compromesso sui gradient ;) ))*/
 
 .bg1 {
