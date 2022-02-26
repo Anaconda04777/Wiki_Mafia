@@ -1,0 +1,72 @@
+
+.card > summary {
+    font-size:x-large;
+    font-weight: bold;
+}
+.card {
+  position: relative;
+  min-height: 250px;
+  overflow: hidden;
+}
+
+.newsCaption {
+  position: absolute;
+  top: auto;
+  bottom: 0;
+  opacity: .6;
+  left: 0;
+  height: 100%;
+  background-color: #000;
+  padding: 15px;
+  transform: translateY(80%);
+  backface-visibility: hidden;
+  transition: opacity 0.1s 0.3s;
+  transition: transform 0.4s, opacity 0.1s 0.3s;
+  transition: transform 0.4s, opacity 0.1s 0.3s;
+}
+
+#reato-3 > .newsCaption {
+  transform: translateY(90%);
+}
+
+.newsCaption-title {
+    margin: 0 15px 18px 0;
+}
+
+.news-Slide-up:hover .newsCaption {
+  opacity: .6;
+  top: 0px;
+  transform: translateY(0px) !important; 
+  transition: opacity 0.1s;
+  transition: transform 0.4s, opacity 0.1s;
+  transition: transform 0.4s, opacity 0.1s;
+}
+
+/*immgaini bg*/
+.card {
+    background-image: url();
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+
+#container {  
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr 1fr;
+  gap: 15px 15px;
+  grid-auto-flow: row;
+  grid-template-areas:
+    "reato-1 reato-3"
+    "reato-2 reato-3"
+    "reato-4 reato-4"
+    "reato-5 reato-6";
+}
+
+
+#reato-1 { grid-area: reato-1; }
+#reato-2 { grid-area: reato-2; }
+#reato-3 { grid-area: reato-3; }
+#reato-4 { grid-area: reato-4; }
+#reato-5 { grid-area: reato-5; }
+#reato-6 { grid-area: reato-6; }
