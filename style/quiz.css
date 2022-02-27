@@ -11,6 +11,15 @@ footer {
 main.card {
     background-color: rgba(255, 255, 255, 0.089);
 }
+
+.pointer:hover {
+    transform: scale(1.2);
+    cursor: pointer;
+}
+
+.pointer {
+    transition: all .2s ease-in-out;
+}
 /*tabella domander*/
 .tabella-domande .card{
     max-width: 2vw;
@@ -45,6 +54,8 @@ main.card {
     position: absolute;
     transform: scale(0.8);
 }
+
+
 /*-----------------*/
 
 
@@ -134,3 +145,4 @@ li {
     transform: scale(1.05);
     cursor: pointer;    
 }
+

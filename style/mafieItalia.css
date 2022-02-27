@@ -29,6 +29,7 @@ main {
       
 
     max-width: 55%;
+    overflow-y: scroll;
     box-shadow: 0 8px 32px 0 rgba(35, 36, 44, 0.37);
 }
 

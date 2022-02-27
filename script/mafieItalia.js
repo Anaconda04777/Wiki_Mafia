@@ -139,36 +139,52 @@ function creazioneModali() {
         <div class="modal centrator modal-ndrangheta hide">
             <div class="card bg2">
                 <div>
-                    <h2 class="m0">Integer dui turpis</h2>
+                    <h2 class="m0">'Ndrangheta</h2>
                     <img src="../Assets/icons/close.png" alt="Facebook" class="m0">
                 </div>
                 
                 <img src="../Assets/xi.jpeg" alt="Facebook" class="m0">
                 <p class="m0">
-                    udin nibh sollicitudin sit amet. Proin et magna eget lectus egestas rhoncus 
-                    ac vitae tellus. Nullam vitae mi faucibus enim facilisis venenatis sit udin nibh sollicitudin sit amet. 
-                    Proin et magna eget lectus egestas rhoncus 
-                    ac vitae tellus. Nullam vitae mi faucibus enim facilisis venenatis sit 
+                    L'Ndrangheta esercita un controllo capillare sul territorio grazie, appunto, al ricliclaggio di denaro e all'estorsione.
+                    L'organizzazione è di tipo verticistico-orizzontale. Come unità di base troviamo l'ndrina, ovvero la famiglia; la differenza
+                    con cosa nostra è che i membri sono legati da legami di sangue. A capo dell'ndrina c'è il capo 'ndrina.
+                    Più 'ndrine formano una "Locale", essa è divisa in "Società Minore" e "Società Maggiore". Ogni Locale è diretta da una "Copiata",
+                    un triumvirato composto dal Capo Bastone: "Manager" della Locale, dirige l'attività illecita sul territorio, dal Contabile: 
+                    commercialista della Locale, dal Crimine: responsabile della pianificazione e dell'esecuzione delle attività illecite.
+                    Le Locali sono riunite nelle "Camere di Controllo", le quali governano Localmente (in uno stato o in una provincia) la Locale.
+                    Al vertice della struttura c'è "Provincia" la quale controlla tutte le Locali. Le cariche al suo interno sono, il Capo crimine 
+                    massima carica all'interno della 'ndrangheta.
+
                 </p>
                 <div class="m0">
-                    <h3>Nullam vitae mi faucibus</h3>
+                    <h3>Le "Doti" tra Società Minore e Società Maggiore</h3>
                     <ul>
                         <li>
-                            udin nibh sollicitudin sit amet. Proin et magna eget lectus egestas rhoncus 
-                            ac vitae tellus.
+                            PICCIOTTO: è la prima dote della 'ndrangheta, che si può ottenere al compimento del 14° anno di età
                         </li>
                         <li>
-                            udin nibh sollicitudin sit amet. Proin et magna eget lectus egestas rhoncus 
-                            ac vitae tellus.
+                            CAMORRISTA: se un picciotto è “degno e meritevole” può diventare camorrista. 
+                            I giovani d’onore possono essere battezzati direttamente come camorristi saltando la prima dote di picciotto
                         </li>
                         <li>
-                            udin nibh sollicitudin sit amet. Proin et magna eget lectus egestas rhoncus 
-                            ac vitae tellus.
+                            SGARRISTA: è l'ultima dote della società minore
                         </li>
                         <li>
-                            udin nibh sollicitudin sit amet. Proin et magna eget lectus egestas rhoncus 
-                            ac vitae tellus.
+                            SANTA: è la prima dote della società maggiore. Il "santista" è sia massone che 'ndranghetista
                         </li>
+                        <li>
+                            VANGELO: è la seconda dote della società maggiore e la ottengono solo personaggi eccelsi della 'ndrangheta, che prendono decisioni vitali
+                        </li>
+                        <li>
+                            SANTA: è la prima dote della società maggiore. Il "santista" è sia massone che 'ndranghetista
+                        </li>
+                        <li>
+                            PADRINO: È attribuita a un ristretto numero di 'ndranghetisti che godono di una serie di privilegi e altrettante responsabilità
+                        </li>
+                        <li>
+                            ASSOCIAZIONE: è la dote concesso ai capi delle famiglie che si riuniscono in forma di Consiglio
+                        </li>
+                        
                     </ul>
                 </div>
             </div>        
