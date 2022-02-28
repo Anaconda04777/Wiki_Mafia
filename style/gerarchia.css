@@ -3,6 +3,8 @@
     font-size:x-large;
     font-weight: bold;
 }
+
+
 .card {
   position: relative;
   /*ho tolto il min-height: perchè se no la card consigliere veniva più alta delle altre;*/
@@ -76,13 +78,14 @@ svg {
 }
 
 
+
 /*-------------------*/
 #container {
-  margin: 0 10vw;
+  margin: 0 10vw; /*ma questo margin? ti consiglio di toglierlo, schiaccia troppo le card, al massimo lavora sulle*/
   display: grid; 
   grid-template-columns: 1fr 1.5fr 1fr; 
   grid-template-rows: 1fr 1fr 0.7fr 0.7fr 0.7fr; 
-  gap: 50px 25px; 
+   
   grid-template-areas: 
     ". membro-1 membro-2"
     ". membro-3 ."

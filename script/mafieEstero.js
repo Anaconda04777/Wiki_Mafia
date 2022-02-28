@@ -190,31 +190,26 @@ function creazioneModali() {
                 
                 <img src="../Assets/xi.jpeg" alt="Facebook" class="m0">
                 <p class="m0">
-                    udin nibh sollicitudin sit amet. Proin et magna eget lectus egestas rhoncus 
-                    ac vitae tellus. Nullam vitae mi faucibus enim facilisis venenatis sit udin nibh sollicitudin sit amet. 
-                    Proin et magna eget lectus egestas rhoncus 
-                    ac vitae tellus. Nullam vitae mi faucibus enim facilisis venenatis sit 
+                    L’Organizacija, a differenza di Cosa Nostra, non presenta una struttura verticistica. 
+                    Non c’è una “Cupola” che dirige tutte le bande. Esse controllano province o intere repubbliche. 
+                    Possiamo dividere in tre categorie le cosche:
+                    Piccoli gruppi composti da 10/15 persone, indipendenti dall'organizzazione ma ad essa affiliati, 
+                    Grandi brigate di 200/300 persone (in numero di circa 500), che controllano i gruppi più piccoli 
+                    e sparse su tutto il territorio, i così detti "ladri nella legge" (vor v zakone), 
+                    sono le cosche con più potere, sia economico che politico, spesso sono avvocati, medici, ingegneri e politici. 
+                    Sono in grado di svolgere grandi operazioni finanziarie, avendo a disposizione ingenti capitali.
                 </p>
                 <div class="m0">
-                    <h3>Nullam vitae mi faucibus</h3>
-                    <ul>
-                        <li>
-                            udin nibh sollicitudin sit amet. Proin et magna eget lectus egestas rhoncus 
-                            ac vitae tellus.
-                        </li>
-                        <li>
-                            udin nibh sollicitudin sit amet. Proin et magna eget lectus egestas rhoncus 
-                            ac vitae tellus.
-                        </li>
-                        <li>
-                            udin nibh sollicitudin sit amet. Proin et magna eget lectus egestas rhoncus 
-                            ac vitae tellus.
-                        </li>
-                        <li>
-                            udin nibh sollicitudin sit amet. Proin et magna eget lectus egestas rhoncus 
-                            ac vitae tellus.
-                        </li>
-                    </ul>
+                    <h3>Modus Operandi:</h3>
+                    <p>
+                        gli affiliati ai gruppi più potenti sono spesso industriali, o più in generale, 
+                        uomini d'affari di successo, molti di loro sono immobiliaristi e costruttori; 
+                        questo perché la mafia usa spesso l’edilizia, prima con la costruzione, poi con la gestione, 
+                        per riciclare il denaro. Il traffico di droga è molto sviluppato fuori dai confini dell’ex Unione Sovietica, 
+                        assieme a quello di organi e di armi. La violenza una volta un tempo diffusa e spietata spaventa 
+                        ancora funzionari pubblici o imprenditori privati i quali o si affidano a agenzie di sicurezza oppure 
+                        si piegano alle organizzazioni.
+                    </p>
                 </div>
             </div>        
         </div>
@@ -222,73 +217,81 @@ function creazioneModali() {
         <div class="modal centrator modal-sacra-corona-unita hide">
             <div class="card bg2">
                 <div>
-                    <h2 class="m0">Integer dui turpis</h2>
+                    <h2 class="m0">Il Cartello di Sinaloa</h2>
                     <img src="../Assets/icons/close.png" alt="Facebook" class="m0">
                 </div>
                 
                 <img src="../Assets/xi.jpeg" alt="Facebook" class="m0">
                 <p class="m0">
-                    udin nibh sollicitudin sit amet. Proin et magna eget lectus egestas rhoncus 
-                    ac vitae tellus. Nullam vitae mi faucibus enim facilisis venenatis sit udin nibh sollicitudin sit amet. 
-                    Proin et magna eget lectus egestas rhoncus 
-                    ac vitae tellus. Nullam vitae mi faucibus enim facilisis venenatis sit 
+                    Il  funzionamento del cartello sarebbe simile a un’alleanza in cui ogni membro o subalterno controlla 
+                    attività e zone di competenza, ma giurando fedeltà ai capi massimi e proteggendosi a vicenda,  
+                    con regole di obbedienza simili alla mafia italiana. Le organizzazioni messicane sono note la loro violenza 
+                    e le continue guerre tra i vari cartelli. Basti pensare che negli anni '80 il cartello di Sinaloa entro in 
+                    conflitto con il Cartello di Tijuana, entrambi i cartelli erano figli del Cartello di Guadalajara, 
+                    che si sciolse dopo l’arresto del Boss  Miguel Ángel Félix Gallardo.
+                    Alla fine degli anni 80 Sinaloa si alleò con il  Cartello di Juárez in contrasto con il Cartello del Golfo e di Tijuana.
+                     Ad oggi il cartello di Tijuana è stato quasi sconfitto.
+                    Nel 2005, il Cartello di Beltrán Leyva, che era alleato con Sinaloa, rompe l'alleanza. Nel 2006, 
+                    il cartello di Sinaloa aveva eliminato completamente la presenza del cartello rivale al confine e 
+                    si sospettava che riuscissero a corrompere i funzionari del governo statale. Dal febbraio 2010, 
+                    i principali cartelli messicani si sono divisi in due alleanze, una composta dal Cartello di Juarez, 
+                    il cartello di TIjuana e il Cartello di Beltrán Leyva e l'altro con il Cartello del Golfo, Sinaloa, 
+                    i Caballeros Templarios. L'alleanza di questi ultimi terminerà con il predominio quasi totale di Sinaloa nelle 
+                    aree di influenza dei vecchi nemici e alleati.
                 </p>
-                <div class="m0">
-                    <h3>Nullam vitae mi faucibus</h3>
-                    <ul>
-                        <li>
-                            udin nibh sollicitudin sit amet. Proin et magna eget lectus egestas rhoncus 
-                            ac vitae tellus.
-                        </li>
-                        <li>
-                            udin nibh sollicitudin sit amet. Proin et magna eget lectus egestas rhoncus 
-                            ac vitae tellus.
-                        </li>
-                        <li>
-                            udin nibh sollicitudin sit amet. Proin et magna eget lectus egestas rhoncus 
-                            ac vitae tellus.
-                        </li>
-                        <li>
-                            udin nibh sollicitudin sit amet. Proin et magna eget lectus egestas rhoncus 
-                            ac vitae tellus.
-                        </li>
-                    </ul>
-                </div>
             </div>        
         </div>
 
         <div class="modal centrator modal-stidda hide">
             <div class="card bg2">
                 <div>
-                    <h2 class="m0">Integer dui turpis</h2>
+                    <h2 class="m0">Mafia Italo-Americana</h2>
                     <img src="../Assets/icons/close.png" alt="Facebook" class="m0">
                 </div>
                 
                 <img src="../Assets/xi.jpeg" alt="Facebook" class="m0">
                 <p class="m0">
-                    udin nibh sollicitudin sit amet. Proin et magna eget lectus egestas rhoncus 
-                    ac vitae tellus. Nullam vitae mi faucibus enim facilisis venenatis sit udin nibh sollicitudin sit amet. 
-                    Proin et magna eget lectus egestas rhoncus 
-                    ac vitae tellus. Nullam vitae mi faucibus enim facilisis venenatis sit 
+                    La struttura familiare di Cosa Nostra è stata mantenuta dagli immigrati anche in America. 
+                    Negli ultimi anni molte famiglie storiche come quella di Now Orleans non esistono più o hanno 
+                    diminuito affiliati tra i loro ranghi. Inoltre vasti settori criminali sono stati conquistati da 
+                    altre mafie o bande di strada, in genere messicani, russi o cinesi. Ad ogni modo si tratta di bande 
+                    o cartelli in lotta fra loro. Ma comunque si tratta di organizzazioni meno potenti e radicate rispetto 
+                    a Cosa Nostra Americana. Perciò la mafia italiana in america è stata costretta ad evolversi, cercando 
+                    di operare sempre più nell’ombra e reclutando bande di strada o anche di bikers (motociclisti) fuorilegge 
+                    per attuare i propri crimini. Oppure variando l’organizzazione, come ad esempio fa la famiglia Genovese: 
+                    non possiedono più un unico boss, ma la leadership viene passata continuamente di mano in mano a vari boss, 
+                    a seconda delle convenienze, con un sistema a rotazione, in modo tale da far perdere le proprie tracce.
                 </p>
                 <div class="m0">
-                    <h3>Nullam vitae mi faucibus</h3>
+                    <h3>Codice d'onore</h3>
                     <ul>
                         <li>
-                            udin nibh sollicitudin sit amet. Proin et magna eget lectus egestas rhoncus 
-                            ac vitae tellus.
+                            Nazionalità: ogni membro deve essere di origini italiane o italoamericane, 
+                            e di sesso maschile. Inoltre bisogna che venga presentato al resto della famiglia da un altro made man (gli uomini d'onore di Cosa Nostra), 
+                            o talvolta due, che devono conoscerlo da almeno 10-15 anni, per garantire la sua fiducia e capacità all'organizzazione.
                         </li>
                         <li>
-                            udin nibh sollicitudin sit amet. Proin et magna eget lectus egestas rhoncus 
-                            ac vitae tellus.
+                            Omertà: regola del silenzio assoluto. Il made man non deve parlare mai con nessuno della 
+                            famiglia di cui entra a far parte, né tantomeno rivelarne le attività.
                         </li>
                         <li>
-                            udin nibh sollicitudin sit amet. Proin et magna eget lectus egestas rhoncus 
-                            ac vitae tellus.
+                            Segreti di famiglia: I membri non hanno diritto di parlare degli affari della famiglia a dei non-membri.
                         </li>
                         <li>
-                            udin nibh sollicitudin sit amet. Proin et magna eget lectus egestas rhoncus 
-                            ac vitae tellus.
+                            Sangue per sangue: se un membro della famiglia è stato ucciso da un membro di un'altra famiglia, 
+                            nessuno può vendicarlo, fino a quando non sia il boss a concedere tale permesso
+                        </li>
+                        <li>
+                            Niente lotte fra i membri: non devono esserci faide tra i membri della famiglia, né con armi, né a mani nude.
+                        </li>
+                        <li>
+                            Omaggio: ogni membro deve pagare una volta al mese il boss con una quota delle sue entrate.
+                        </li>
+                        <li>
+                            Niente adulterio: i membri non hanno il diritto di commettere adulterio con la moglie di un altro membro della famiglia.
+                        </li>
+                        <li>
+                            Niente barba: tutti i membri devono rigorosamente tagliarsi la barba
                         </li>
                     </ul>
                 </div>

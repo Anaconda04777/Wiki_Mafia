@@ -86,7 +86,7 @@ function creazioneModali() {
                 <p class="m0">
                     Cosa nostra ha una struttura verticistica, infatti la struttura di base di cosa nostra è la "Famiglia", governata
                     da un capo il quale ha come braccio destro un vicecapo nominato da esso assieme a dei consiglieri, quest'ultimi scelti da 
-                    "Umini d'onore", organizzati in gruppi da 10, chiamati appunto decina. Ogni decina è comandata da un capodecina.
+                    "Uomini d'onore", organizzati in gruppi da 10, chiamati appunto decina. Ogni decina è comandata da un capodecina.
                     Tre o più famigli formano un "Mandamento", essi sono comandati dalla "Cupola", la quale ha un influenza provinciale.
                     I personaggi più famosi legati a Cosa Nostra sono: Totò Riina, Tommaso Buscetta e Francesco Messina Denaro
                 </p>
