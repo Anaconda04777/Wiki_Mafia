@@ -5,7 +5,8 @@
 }
 .card {
   position: relative;
-  min-height: 250px;
+  /*ho tolto il min-height: perchè se no la card consigliere veniva più alta delle altre;*/
+  height: 30vh;
   overflow: hidden;
 }
 
@@ -45,6 +46,37 @@
     background-size: 100% 100%;
 }
 
+/*freccia per i vari margin pensaci tu*/
+.ruolo {
+  display: flex;
+  flex-direction: column;
+  /*così da avere la freccia centrata se no si allargherebbe troppo la card 
+  (per quanto riguarda la card consigliere, per questioni di coerenze meglio metterlo su tutti)*/
+  height: fit-content;
+
+}
+svg {
+  align-self: center;
+}
+
+.ruolo1 {
+  flex-direction: row;
+  
+  
+}
+/*faccio più grande la card e la metto dopo la freccia*/
+.ruolo1 .card {
+  flex-grow: 2;
+  order: 1;
+}
+
+.ruolo1 svg {
+  order: 0;
+  transform: rotate(90deg);
+}
+
+
+/*-------------------*/
 #container {
   display: grid; 
   grid-template-columns: 1fr 1.5fr 1fr; 
@@ -58,9 +90,9 @@
     ". membro-6 ."; 
 }
 
-#membro-1 { grid-area: membro-1; }
-#membro-2 { grid-area: membro-2; }
-#membro-3 { grid-area: membro-3; }
-#membro-4 { grid-area: membro-4; }
-#membro-5 { grid-area: membro-5; }
-#membro-6 { grid-area: membro-6; }
+.ruolo0 { grid-area: membro-1; }
+.ruolo1 { grid-area: membro-2; }
+.ruolo2 { grid-area: membro-3; }
+.ruolo3 { grid-area: membro-4; }
+.ruolo4 { grid-area: membro-5; }
+.ruolo5 { grid-area: membro-6; }
