@@ -1,55 +1,55 @@
 
-const reati = [
+const ruoli = [
     {
-        titolo:"reato 1",
-        id:"reato-1",
+        titolo:"Capo",
+        id:"membro-1",
         img:"../Assets/xi.jpeg",
         testo:"Ex do ullamco esse magna in amet excepteur nisi id occaecat qui dolor. Proident adipisicing velit amet ex ut nulla qui occaecat est excepteur deserunt ex dolor. Laboris aliqua sit aliquip nostrud ex adipisicing sit adipisicing Lorem id nostrud. Est reprehenderit veniam adipisicing labore ex aliqua et elit veniam commodo ex aliquip est."
     },
     {
-        titolo:"reato 2",
-        id:"reato-2",
-        img:"",
+        titolo:"Consigliere",
+        id:"membro-2",
+        img:"../Assets/xi.jpeg",
         testo:"Ex do ullamco esse magna in amet excepteur nisi id occaecat qui dolor. Proident adipisicing velit amet ex ut nulla qui occaecat est excepteur deserunt ex dolor. Laboris aliqua sit aliquip nostrud ex adipisicing sit adipisicing Lorem id nostrud. Est reprehenderit veniam adipisicing labore ex aliqua et elit veniam commodo ex aliquip est."
     },
     {
-        titolo:"reato 3",
-        id:"reato-3",
-        img:"",
+        titolo:"Vice-capo",
+        id:"membro-3",
+        img:"../Assets/xi.jpeg",
         testo:"Ex do ullamco esse magna in amet excepteur nisi id occaecat qui dolor. Proident adipisicing velit amet ex ut nulla qui occaecat est excepteur deserunt ex dolor. Laboris aliqua sit aliquip nostrud ex adipisicing sit adipisicing Lorem id nostrud. Est reprehenderit veniam adipisicing labore ex aliqua et elit veniam commodo ex aliquip est."
     },
     {
-        titolo:"reato 4",
-        id:"reato-4",
-        img:"",
+        titolo:"Caporegime",
+        id:"membro-4",
+        img:"../Assets/xi.jpeg",
         testo:"Ex do ullamco esse magna in amet excepteur nisi id occaecat qui dolor. Proident adipisicing velit amet ex ut nulla qui occaecat est excepteur deserunt ex dolor. Laboris aliqua sit aliquip nostrud ex adipisicing sit adipisicing Lorem id nostrud. Est reprehenderit veniam adipisicing labore ex aliqua et elit veniam commodo ex aliquip est."
     },
     {
-        titolo:"reato 5",
-        id:"reato-5",
-        img:"",
+        titolo:"Soldato",
+        id:"membro-5",
+        img:"../Assets/xi.jpeg",
         testo:"Ex do ullamco esse magna in amet excepteur nisi id occaecat qui dolor. Proident adipisicing velit amet ex ut nulla qui occaecat est excepteur deserunt ex dolor. Laboris aliqua sit aliquip nostrud ex adipisicing sit adipisicing Lorem id nostrud. Est reprehenderit veniam adipisicing labore ex aliqua et elit veniam commodo ex aliquip est."
     },
     {
-        titolo:"reato 6",
-        id:"reato-6",
-        img:"",
+        titolo:"Avvicinato",
+        id:"membro-6",
+        img:"../Assets/xi.jpeg",
         testo:"Ex do ullamco esse magna in amet excepteur nisi id occaecat qui dolor. Proident adipisicing velit amet ex ut nulla qui occaecat est excepteur deserunt ex dolor. Laboris aliqua sit aliquip nostrud ex adipisicing sit adipisicing Lorem id nostrud. Est reprehenderit veniam adipisicing labore ex aliqua et elit veniam commodo ex aliquip est."
-    }
+    },
 ]
 
 
 window.onload = function() {
     let container = document.querySelector("#container");
-    for (let i=0; i<reati.length; i++) {
+    for (let i=0; i<ruoli.length; i++) {
         container.innerHTML += `
-        <div class='card news-Slide-up' id="${reati[i].id}">
+        <div class='card news-Slide-up' id="${ruoli[i].id}">
           <div class='newsCaption'>
-            <h2 class='newsCaption-title'>${reati[i].titolo}</h2>
-            <p class='newsCaption-content'>${reati[i].testo}</p>   
+            <h2 class='newsCaption-title'>${ruoli[i].titolo}</h2>
+            <p class='newsCaption-content'>${ruoli[i].testo}</p>   
           </div>
         </div>`
-        let x = document.querySelector(`#${reati[i].id}`);
-        x.style.backgroundImage = `url(${reati[i].img})`;
+        let x = document.querySelector(`#${ruoli[i].id}`);
+        x.style.backgroundImage = `url(${ruoli[i].img})`;
     }
 }
