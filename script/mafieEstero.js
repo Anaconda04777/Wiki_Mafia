@@ -78,35 +78,48 @@ function creazioneModali() {
         <div class="modal centrator modal-cosa-nostra hide">
             <div class="card bg2">
                 <div>
-                    <h2 class="m0">Integer dui turpis</h2>
+                    <h2 class="m0">Yakuza</h2>
                     <img src="../Assets/icons/close.png" alt="Facebook" class="m0">
                 </div>
                 
                 <img src="../Assets/xi.jpeg" alt="Facebook" class="m0">
                 <p class="m0">
-                    udin nibh sollicitudin sit amet. Proin et magna eget lectus egestas rhoncus 
-                    ac vitae tellus. Nullam vitae mi faucibus enim facilisis venenatis sit udin nibh sollicitudin sit amet. 
-                    Proin et magna eget lectus egestas rhoncus 
-                    ac vitae tellus. Nullam vitae mi faucibus enim facilisis venenatis sit 
+                    Una particolarità della Yakuza che la differisce dalle altre organizzazioni mafiose, e quello
+                    di avere un riconoscimento legale nella Costituzione giapponese, quindi operi alla luce del sole.
+                    Un'altra particolarità riguarda la sua struttura conosciuta come oyabun-kobun, letteralmente "padre-figlio".
+                    Questa struttura è fondata su una complessa rete di relazioni con forti legami interni, sia orizzontali che verticali,
+                    alla base della struttura ci sono le ikka i cui membri sono legati tra loro da legami di sangue (padre-figlio, fratello-fratello)
+                    ogni famiglia è suddivisa in 4 livelli: i saiko kanbu (dirigenti supremi), al vertice della famiglia,
+                    i kanbu (dirigenti), i waka-chu (giovani organizzatori), i jun kosei-in (apprendisti), incaricati della protezione dei 
+                    membri anziani e dediti a svariate mansioni (rispondere al telefono, autisti, servire gli ospiti), possono essere jun kosei-in
+                    anche membri esterni alla famiglia.
                 </p>
                 <div class="m0">
-                    <h3>Nullam vitae mi faucibus</h3>
+                    <h3>Wakamono no kokoroe, il codice interno</h3>
+                    <p>
+                        Il forte controllo interno è dato dal codice d'onore adottato dalla Yakuza, 
+                        il quale sancisce fedeltà assoluto all’organizzazione e una ferrea disciplina da seguire. 
+                        La fedeltà e premiata tramite promozioni o premi in denaro, l'infedeltà è punita con alcune 
+                        piccole offese all'onore dell'affiliato (la rasatura dei capelli, la reclusione temporanea, 
+                        multe salate e una temporanea espulsione); oppure, nei casi più gravi, con il linciaggio, 
+                        l'amputazione di un dito, l'espulsione, l'espulsione definitiva e, infine, la morte.
+                        Le 5 regole fondamentali sono:
+                    </p>
                     <ul>
                         <li>
-                            udin nibh sollicitudin sit amet. Proin et magna eget lectus egestas rhoncus 
-                            ac vitae tellus.
+                            non disobbedire o causare problemi ai tuoi superiori;
                         </li>
                         <li>
-                            udin nibh sollicitudin sit amet. Proin et magna eget lectus egestas rhoncus 
-                            ac vitae tellus.
+                            non tradire il gruppo o i tuoi compagni;
                         </li>
                         <li>
-                            udin nibh sollicitudin sit amet. Proin et magna eget lectus egestas rhoncus 
-                            ac vitae tellus.
+                            non lottare con i tuoi compagni o non rompere l'armonia dell'organizzazione;
                         </li>
                         <li>
-                            udin nibh sollicitudin sit amet. Proin et magna eget lectus egestas rhoncus 
-                            ac vitae tellus.
+                            non sprecare i fondi dell'organizzazione;
+                        </li>
+                        <li>   
+                            non toccare alcuna donna dei membri dell'organizzazione.
                         </li>
                     </ul>
                 </div>
@@ -116,45 +129,62 @@ function creazioneModali() {
         <div class="modal centrator modal-camorra hide">
             <div class="card bg2">
                 <div>
-                    <h2 class="m0">Integer dui turpis</h2>
+                    <h2 class="m0">La Triade</h2>
                     <img src="../Assets/icons/close.png" alt="Facebook" class="m0">
                 </div>
                 
                 <img src="../Assets/xi.jpeg" alt="Facebook" class="m0">
                 <p class="m0">
-                    udin nibh sollicitudin sit amet. Proin et magna eget lectus egestas rhoncus 
-                    ac vitae tellus. Nullam vitae mi faucibus enim facilisis venenatis sit udin nibh sollicitudin sit amet. 
-                    Proin et magna eget lectus egestas rhoncus 
-                    ac vitae tellus. Nullam vitae mi faucibus enim facilisis venenatis sit 
+                    La struttura della triade è gerarchica, inoltre la Triade è divisa in tanti gruppi con valori di influenza diversi. 
+                    Le posizioni all’interno delle cosche sono rappresentati da numeri simbolici, basati sull' 
+                    I Ching uno dei primi testi classici cinesi:
                 </p>
+                <ul>
+                    <li>
+                        Il 489 si riferisce alla Montagna o Capo dragone (il boss)
+                    </li>
+                    <li>
+                        Il 438 è usato per il Vice capo montagna (il vice-boss)
+                    </li>
+                    <li>
+                        Il 426 è utilizzato per il capo dell'ala militare (il caporegime) che si occupa delle azioni difensive ed offensive
+                    </li>
+                    <li>
+                        Il 415 si occupa del lato economico, ricercando risorse e fornendo consigli, una sorta di Consigliere
+                    </li>
+                    <li>
+                        Il 432 è deputato ai collegamenti tra le varie unità
+                    </li>
+                    <li>
+                        Il 49 indica la posizione di quello che sarebbe il "soldato"
+                    </li>
+                    <li>
+                        Le "lanterne blu" sono invece coloro che non sono ancora stati affiliati all'organizzazione, 
+                        gli equivalenti degli "associati" nella mafia siciliana.
+                    </li>
+                </ul>
                 <div class="m0">
-                    <h3>Nullam vitae mi faucibus</h3>
-                    <ul>
-                        <li>
-                            udin nibh sollicitudin sit amet. Proin et magna eget lectus egestas rhoncus 
-                            ac vitae tellus.
-                        </li>
-                        <li>
-                            udin nibh sollicitudin sit amet. Proin et magna eget lectus egestas rhoncus 
-                            ac vitae tellus.
-                        </li>
-                        <li>
-                            udin nibh sollicitudin sit amet. Proin et magna eget lectus egestas rhoncus 
-                            ac vitae tellus.
-                        </li>
-                        <li>
-                            udin nibh sollicitudin sit amet. Proin et magna eget lectus egestas rhoncus 
-                            ac vitae tellus.
-                        </li>
-                    </ul>
+                    <h3>Il rito di affiliazione</h3>
+                    <p>
+                        Il rito di affiliazione è molto particolare: 
+                        la cerimonia si svolge di fronte ad un altare dedicato a Guan Yu (un generale dell’antica Cina), 
+                        sono presenti anche dell'incenso e un animale sacrificale. L’aspirante affiliato deve bere 
+                        del vino misto a un po’ del sangue dell’animale sacrificato e passare sotto un arco di spade 
+                        recitando la formula di giuramento delle triadi. In seguito un foglio sopra il quale è scritto 
+                        il giuramento viene bruciato per confermare che egli manterrà i suoi impegni verso gli dei. 
+                        Tre dita della mano sinistra vengono sollevate come gesto vincolante 
+                    </p>
                 </div>
+                <p>
+                            
+                </p>
             </div>        
         </div>
 
         <div class="modal centrator modal-ndrangheta hide">
             <div class="card bg2">
                 <div>
-                    <h2 class="m0">Integer dui turpis</h2>
+                    <h2 class="m0">Organizacija</h2>
                     <img src="../Assets/icons/close.png" alt="Facebook" class="m0">
                 </div>
                 

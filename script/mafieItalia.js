@@ -117,7 +117,7 @@ function creazioneModali() {
                 
                 <img src="../Assets/xi.jpeg" alt="Facebook" class="m0">
                 <p class="m0">
-                    La camorra, a differenza di cosa nostro, è molto più divisa. Essa conta moltissimi clan tra la provincia e la città. 
+                    La camorra, a differenza di cosa nostra, è molto più divisa. Essa conta moltissimi clan tra la provincia e la città. 
                     Per questo le faide tra i clan sono sempre state vivaci. Per la camorra la violenza è l'unica via per risolvere le dispute 
                     interne. Non essendoci un Boss che raccolga tutti i clan e quindi avendo una struttura frammentata, e più probabile che i capi clan
                     vengano spodestati da tenaci leve. Di conseguenza l'età media dei capi clan è piittosto bassa. A differenza di cosa nostra, il reclutamento
