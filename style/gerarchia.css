@@ -48,14 +48,14 @@
 #container {
   display: grid; 
   grid-template-columns: 1fr 1.5fr 1fr; 
-  grid-template-rows: 1fr 1fr 1fr 1fr 1fr; 
+  grid-template-rows: 1fr 1fr 0.8fr 0.8fr 0.8fr; 
   gap: 50px 25px; 
   grid-template-areas: 
     ". membro-1 membro-2"
     ". membro-3 ."
-    ". membro-4 ."
-    ". membro-5 ."
-    ". membro-6 ."; 
+    "membro-4 membro-4 membro-4"
+    "membro-5 membro-5 membro-5"
+    "membro-6 membro-6 membro-6"; 
 }
 
 #membro-1 { grid-area: membro-1; }
