@@ -84,25 +84,26 @@ function creazioneModali() {
                 
                 <img src="../Assets/mafieEstero/modalYakuza.jpg" alt="Yakuza" class="m0 stile-img">
                 <p class="m0">
-                    Una particolarità della Yakuza che la differisce dalle altre organizzazioni mafiose, e quello
-                    di avere un riconoscimento legale nella Costituzione giapponese, quindi operi alla luce del sole.
-                    Un'altra particolarità riguarda la sua struttura conosciuta come oyabun-kobun, letteralmente "padre-figlio".
+                    Una particolarità della Yakuza che la differenzia dalle altre organizzazioni mafiose, e quella
+                    di avere un riconoscimento legale nella Costituzione giapponese, di conseguenza può permettersi di operare alla luce del sole.
+                    Un'altra particolarità riguarda la sua struttura conosciuta come Oyabun-kobun, letteralmente "padre-figlio".
                     Questa struttura è fondata su una complessa rete di relazioni con forti legami interni, sia orizzontali che verticali,
-                    alla base della struttura ci sono le ikka i cui membri sono legati tra loro da legami di sangue (padre-figlio, fratello-fratello)
-                    ogni famiglia è suddivisa in 4 livelli: i saiko kanbu (dirigenti supremi), al vertice della famiglia,
-                    i kanbu (dirigenti), i waka-chu (giovani organizzatori), i jun kosei-in (apprendisti), incaricati della protezione dei 
+                    alla base della struttura ci sono le Ikka i cui membri sono legati tra loro da legami di sangue (padre-figlio, fratello-fratello)
+                    ogni famiglia è suddivisa in 4 livelli: i Saiko kanbu (dirigenti supremi), al vertice della famiglia,
+                    i Kanbu (dirigenti), i Waka-chu (giovani organizzatori), i Jun kosei-in (apprendisti), incaricati della protezione dei 
                     membri anziani e dediti a svariate mansioni (rispondere al telefono, autisti, servire gli ospiti), possono essere jun kosei-in
                     anche membri esterni alla famiglia.
+
                 </p>
                 <div class="m0">
                     <h3>Wakamono no kokoroe, il codice interno</h3>
                     <p>
                         Il forte controllo interno è dato dal codice d'onore adottato dalla Yakuza, 
-                        il quale sancisce fedeltà assoluto all’organizzazione e una ferrea disciplina da seguire. 
-                        La fedeltà e premiata tramite promozioni o premi in denaro, l'infedeltà è punita con alcune 
+                        il quale sancisce fedeltà assoluta all’organizzazione e una ferrea disciplina da seguire. 
+                        La fedeltà è premiata tramite promozioni o premi in denaro, l'infedeltà è punita con alcune 
                         piccole offese all'onore dell'affiliato (la rasatura dei capelli, la reclusione temporanea, 
                         multe salate e una temporanea espulsione); oppure, nei casi più gravi, con il linciaggio, 
-                        l'amputazione di un dito, l'espulsione, l'espulsione definitiva e, infine, la morte.
+                        l'amputazione di un dito, l'espulsione definitiva e, infine, la morte.
                         Le 5 regole fondamentali sono:
                     </p>
                     <ul>
@@ -135,7 +136,7 @@ function creazioneModali() {
                 
                 <img src="../Assets/mafieEstero/modalTriade.jpg" alt="Guan Yu" class="m0 stile-img">
                 <p class="m0">
-                    La struttura della triade è gerarchica, inoltre la Triade è divisa in tanti gruppi con valori di influenza diversi. 
+                    La struttura della triade è gerarchica, essa è divisa in tanti gruppi con valori di influenza diversi. 
                     Le posizioni all’interno delle cosche sono rappresentati da numeri simbolici, basati sull' 
                     I Ching uno dei primi testi classici cinesi:
                 </p>
@@ -170,7 +171,7 @@ function creazioneModali() {
                         la cerimonia si svolge di fronte ad un altare dedicato a Guan Yu (un generale dell’antica Cina), 
                         sono presenti anche dell'incenso e un animale sacrificale. L’aspirante affiliato deve bere 
                         del vino misto a un po’ del sangue dell’animale sacrificato e passare sotto un arco di spade 
-                        recitando la formula di giuramento delle triadi. In seguito un foglio sopra il quale è scritto 
+                        recitando la formula di giuramento delle Triadi. In seguito un foglio sopra il quale è scritto 
                         il giuramento viene bruciato per confermare che egli manterrà i suoi impegni verso gli dei. 
                         Tre dita della mano sinistra vengono sollevate come gesto vincolante 
                     </p>
@@ -194,8 +195,8 @@ function creazioneModali() {
                     Non c’è una “Cupola” che dirige tutte le bande. Esse controllano province o intere repubbliche. 
                     Possiamo dividere in tre categorie le cosche:
                     Piccoli gruppi composti da 10/15 persone, indipendenti dall'organizzazione ma ad essa affiliati, 
-                    Grandi brigate di 200/300 persone (in numero di circa 500), che controllano i gruppi più piccoli 
-                    e sparse su tutto il territorio, i così detti "ladri nella legge" (vor v zakone), 
+                    Grandi brigate di 200/300 persone, che controllano i gruppi più piccoli 
+                    e, sparse su tutto il territorio, i cosiddetti "ladri nella legge" (vor v zakone), 
                     sono le cosche con più potere, sia economico che politico, spesso sono avvocati, medici, ingegneri e politici. 
                     Sono in grado di svolgere grandi operazioni finanziarie, avendo a disposizione ingenti capitali.
                 </p>
@@ -205,9 +206,9 @@ function creazioneModali() {
                         gli affiliati ai gruppi più potenti sono spesso industriali, o più in generale, 
                         uomini d'affari di successo, molti di loro sono immobiliaristi e costruttori; 
                         questo perché la mafia usa spesso l’edilizia, prima con la costruzione, poi con la gestione, 
-                        per riciclare il denaro. Il traffico di droga è molto sviluppato fuori dai confini dell’ex Unione Sovietica, 
-                        assieme a quello di organi e di armi. La violenza una volta un tempo diffusa e spietata spaventa 
-                        ancora funzionari pubblici o imprenditori privati i quali o si affidano a agenzie di sicurezza oppure 
+                        per riciclare il denaro. Il traffico di droga è particolarmente sviluppato fuori dai confini dell’ex Unione Sovietica, 
+                        assieme a quello di organi e di armi. La violenza una un tempo diffusa e spietata spaventa 
+                        ancora funzionari pubblici o imprenditori privati, i quali o si affidano a agenzie di sicurezza oppure 
                         si piegano alle organizzazioni.
                     </p>
                 </div>
@@ -223,21 +224,22 @@ function creazioneModali() {
                 
                 <img src="../Assets/mafieEstero/modalSinaloa.png" alt="cartello di Sinaloa" class="m0 stile-img">
                 <p class="m0">
-                    Il  funzionamento del cartello sarebbe simile a un’alleanza in cui ogni membro o subalterno controlla 
-                    attività e zone di competenza, ma giurando fedeltà ai capi massimi e proteggendosi a vicenda,  
-                    con regole di obbedienza simili alla mafia italiana. Le organizzazioni messicane sono note la loro violenza 
+                    Il  funzionamento del cartello è simile a un’alleanza in cui ogni membro o subalterno controlla 
+                    attività e zone di competenza, ma giurano fedeltà ai capi massimi e si proteggono a vicenda  
+                    Con regole di obbedienza simili alla mafia Italiana. Le organizzazioni Messicane sono note per la loro violenza 
                     e le continue guerre tra i vari cartelli. Basti pensare che negli anni '80 il cartello di Sinaloa entro in 
-                    conflitto con il Cartello di Tijuana, entrambi i cartelli erano figli del Cartello di Guadalajara, 
+                    conflitto con il Cartello di Tijuana; entrambi i cartelli erano figli del Cartello di Guadalajara, 
                     che si sciolse dopo l’arresto del Boss  Miguel Ángel Félix Gallardo.
-                    Alla fine degli anni 80 Sinaloa si alleò con il  Cartello di Juárez in contrasto con il Cartello del Golfo e di Tijuana.
-                     Ad oggi il cartello di Tijuana è stato quasi sconfitto.
-                    Nel 2005, il Cartello di Beltrán Leyva, che era alleato con Sinaloa, rompe l'alleanza. Nel 2006, 
+                    Alla fine degli anni ‘80 Sinaloa si alleò con il  Cartello di Juárez in contrasto con il Cartello del Golfo e di Tijuana.
+                    Ad oggi il cartello di Tijuana è stato quasi sconfitto.
+                    Nel 2005, il Cartello di Beltrán Leyva, che era alleato con Sinaloa, ruppe l'alleanza. E già nel 2006, 
                     il cartello di Sinaloa aveva eliminato completamente la presenza del cartello rivale al confine e 
-                    si sospettava che riuscissero a corrompere i funzionari del governo statale. Dal febbraio 2010, 
+                    si sospettava che riuscisse a corrompere i funzionari del governo statale. Dal febbraio 2010, 
                     i principali cartelli messicani si sono divisi in due alleanze, una composta dal Cartello di Juarez, 
-                    il cartello di TIjuana e il Cartello di Beltrán Leyva e l'altro con il Cartello del Golfo, Sinaloa, 
+                    il cartello di TIjuana e il Cartello di Beltrán Leyva e l'altro con il Cartello del Golfo, Sinaloa e
                     i Caballeros Templarios. L'alleanza di questi ultimi terminerà con il predominio quasi totale di Sinaloa nelle 
                     aree di influenza dei vecchi nemici e alleati.
+
                 </p>
             </div>        
         </div>
@@ -255,12 +257,13 @@ function creazioneModali() {
                     Negli ultimi anni molte famiglie storiche come quella di Now Orleans non esistono più o hanno 
                     diminuito affiliati tra i loro ranghi. Inoltre vasti settori criminali sono stati conquistati da 
                     altre mafie o bande di strada, in genere messicani, russi o cinesi. Ad ogni modo si tratta di bande 
-                    o cartelli in lotta fra loro. Ma comunque si tratta di organizzazioni meno potenti e radicate rispetto 
-                    a Cosa Nostra Americana. Perciò la mafia italiana in america è stata costretta ad evolversi, cercando 
+                    o cartelli in lotta fra loro. Si tratta comunque di organizzazioni meno potenti e radicate rispetto 
+                    a Cosa Nostra Americana. Nonostante ciò la mafia italiana in America è stata costretta ad evolversi, cercando 
                     di operare sempre più nell’ombra e reclutando bande di strada o anche di bikers (motociclisti) fuorilegge 
                     per attuare i propri crimini. Oppure variando l’organizzazione, come ad esempio fa la famiglia Genovese: 
                     non possiedono più un unico boss, ma la leadership viene passata continuamente di mano in mano a vari boss, 
                     a seconda delle convenienze, con un sistema a rotazione, in modo tale da far perdere le proprie tracce.
+
                 </p>
                 <img src="../Assets/mafieEstero/modalItaloamerica.jpg" alt="vor v zakone" class="m0 stile-img">
                 <div class="m0">

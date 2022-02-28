@@ -84,11 +84,12 @@ function creazioneModali() {
                 
                 
                 <p class="m0">
-                    Cosa nostra ha una struttura verticistica, infatti la struttura di base di cosa nostra è la "Famiglia", governata
+                    Cosa nostra ha una struttura verticistica, la struttura di base di cosa nostra è la "Famiglia", governata
                     da un capo il quale ha come braccio destro un vicecapo nominato da esso assieme a dei consiglieri, quest'ultimi scelti da 
                     "Uomini d'onore", organizzati in gruppi da 10, chiamati appunto decina. Ogni decina è comandata da un capodecina.
-                    Tre o più famigli formano un "Mandamento", essi sono comandati dalla "Cupola", la quale ha un influenza provinciale.
+                    Tre o più famiglie formano un "Mandamento", essi sono comandati dalla "Cupola", la quale ha un'influenza provinciale.
                     I personaggi più famosi legati a Cosa Nostra sono: Totò Riina, Tommaso Buscetta e Francesco Messina Denaro
+
                 </p>
                 <img src="../Assets/mafieItalia/modalCosaNostra.jpg" alt="Falcone e Borsellino" class="m0 stile-img">
                 <div class="m0">
@@ -121,14 +122,15 @@ function creazioneModali() {
                     La camorra, a differenza di cosa nostra, è molto più divisa. Essa conta moltissimi clan tra la provincia e la città. 
                     Per questo le faide tra i clan sono sempre state vivaci. Per la camorra la violenza è l'unica via per risolvere le dispute 
                     interne. Non essendoci un Boss che raccolga tutti i clan e quindi avendo una struttura frammentata, e più probabile che i capi clan
-                    vengano spodestati da tenaci leve. Di conseguenza l'età media dei capi clan è piittosto bassa. A differenza di cosa nostra, il reclutamento
+                    vengano spodestati da tenaci leve. Di conseguenza l'età media dei capi clan è piuttosto bassa. A differenza di cosa nostra, il reclutamento
                     segue regole meno stringenti, i nuovi adepti vengono presi direttamente dalla strada.
                     Un altra caratteristica della camorra è quella di essere piuttosto infiltrata nella politica, o per lo meno è più palese rispetto ad altre
                     organizzazioni. 
+
                 </p>
                 <div class="m0">
                     <h3>Le principali attività economiche del clan</h3>
-                    <p>Il narcotraffico è la fonte di reddito maggiore per i clan, ma di particolare la camorra ha la commercializzazione dei prodotti
+                    <p>Il narcotraffico è la fonte di reddito maggiore per i clan, ma di particolare la Camorra ha la commercializzazione dei prodotti
                         contraffatti, specialmente a partire dalla crisi del 2008-2007. Non si può ovviamente non citare la terra dei fuochi e quindi 
                         lo smaltimento dei rifiuti, piaga importante del territorio.
                     </p>
@@ -146,16 +148,15 @@ function creazioneModali() {
                 
                 <img src="../Assets/mafieItalia/modalNdrangheta.jpg" alt="L'Ndrangheta nel mondo" class="m0 stile-img">
                 <p class="m0">
-                    L'Ndrangheta esercita un controllo capillare sul territorio grazie, appunto, al ricliclaggio di denaro e all'estorsione.
+                    L'Ndrangheta esercita un controllo capillare sul territorio grazie, appunto, al riciclaggio di denaro e all'estorsione.
                     L'organizzazione è di tipo verticistico-orizzontale. Come unità di base troviamo l'ndrina, ovvero la famiglia; la differenza
-                    con cosa nostra è che i membri sono legati da legami di sangue. A capo dell'ndrina c'è il capo 'ndrina.
+                    con Cosa Nostra è che i membri sono legati da legami di sangue. A capo dell'ndrina c'è il capo 'ndrina.
                     Più 'ndrine formano una "Locale", essa è divisa in "Società Minore" e "Società Maggiore". Ogni Locale è diretta da una "Copiata",
                     un triumvirato composto dal Capo Bastone: "Manager" della Locale, dirige l'attività illecita sul territorio, dal Contabile: 
                     commercialista della Locale, dal Crimine: responsabile della pianificazione e dell'esecuzione delle attività illecite.
-                    Le Locali sono riunite nelle "Camere di Controllo", le quali governano Localmente (in uno stato o in una provincia) la Locale.
-                    Al vertice della struttura c'è "Provincia" la quale controlla tutte le Locali. Le cariche al suo interno sono, il Capo crimine 
+                    Le Locali sono riunite nelle "Camere di Controllo", le quali governano localmente (in uno stato o in una provincia) la Locale.
+                    Al vertice della struttura c'è "Provincia" la quale controlla tutte le Locali. Le cariche massima al suo interno è il Capo crimine, 
                     massima carica all'interno della 'ndrangheta.
-
                 </p>
                 <div class="m0">
                     <h3>Le "Doti" tra Società Minore e Società Maggiore</h3>
@@ -201,13 +202,14 @@ function creazioneModali() {
                 
                 <p class="m0">
                     Originariamente il tipo di struttura della cosca doveva essere piramidale, formata da otto livelli gerarchici. 
-                    Ma a causa dei conflitti interni per il controllo del territorio, si formo una struttura ad arcipelago.
-                    La divisione territoriale funge paradossalmente da collante per l'organizzazione, la quale reculta a livello comunale.
-                    Come nelle Camorra, anche nella SCU l'affiliazioni non prevede rituali particolari.
+                    Ma a causa dei conflitti interni per il controllo del territorio, si formò una struttura ad arcipelago.
+                    La divisione territoriale funge paradossalmente da collante per l'organizzazione, la quale recluta a livello comunale.
+                    Come nelle Camorra, anche nella SCU l'affiliazione non prevede rituali particolari.
                     Il clan è diviso territorialmente e strutturalmente in tre parti: Società foggiana, Camorra Barese e La Sacra Corona Libera.
                     La divisione gerarchica all'interno di ogni clan è puramente simbolica, spesso il rango ottenuto non corrisponde all'effettivo potere
                     che può esercitare quell'affiliato. L'ultimo rango della scala è coperto da 8 individui, i quali compongono la "Società segretissima",
                     la quale comanda un corpo speciale chiamato la "Squadra della morte".
+
                 </p>
                 <img src="../Assets/mafieItalia/modalScu.jpg" alt="Provincia di Bari" class="m0 stile-img">
                 <div class="m0">
@@ -235,15 +237,15 @@ function creazioneModali() {
                 
                 <img src="../Assets/mafieItalia/modalStidda.jpg" alt="Rosario Livitano" class="m0 stile-img">
                 <p class="m0">
-                   La stidda nasce da alcuni giovani che si slegarono da Cosa Nostra formando una loro organizzazione criminale.
-                   All'inizio, per sopravvivere, non entrarono in conflitto con il clan maggiore. Questa situazione cambiò quando
-                   grandi nomi di Cosa Nostra iniziarono, a causa di faide interne allo stesso clan, ad unirsi alla Stidda. Così 
-                   
-                   iniaziò la guerra a Cosa Nostra. Grazie all'impiego di giovanissimi il clan ne uscì vincitore. La grande risposta dello 
-                   stato in seguito all'uccisione del giudice Rosario Livitano, costrinse la Stidda ad allearsi con Cosa Nostra.
-                   La struttura è molto simile a quella di Cosa Nostro, ma molto meno organizzata. Solo negli anni 90' l'organizzazione
-                   unì maggiormente la struttura e fece entrare la consuetudine di far incontrare i capi famiglia ogni tot tempo per decidere
-                   obbiettivi, logistica e controllo del territorio.
+                    La Stidda nasce da alcuni giovani che si slegarono da Cosa Nostra formando una loro organizzazione criminale.
+                    All'inizio, per sopravvivere, non entrarono in conflitto con il clan maggiore. Questa situazione cambiò quando
+                    grandi nomi di Cosa Nostra iniziarono, a causa di faide interne allo stesso clan, ad unirsi alla Stidda. Così 
+                    iniziò la guerra a Cosa Nostra. Grazie all'impiego di giovanissimi il clan ne uscì vincitore. La grande risposta dello 
+                    stato, in seguito all'uccisione del giudice Rosario Livitano, costrinse la Stidda ad allearsi con Cosa Nostra.
+                    La struttura è molto simile a quella di Cosa Nostra, ma molto meno organizzata. Solo negli anni 90' l'organizzazione
+                    unì maggiormente la struttura e fece entrare la consuetudine di far incontrare i capi famiglia ogni tot tempo per decidere
+                    obiettivi, logistica e controllo del territorio.
+
                 </p>
                
                 <div class="m0">
@@ -251,16 +253,15 @@ function creazioneModali() {
                     <p>
                         Per vincere gli Stiddari reclutarono giovanissimi tra gli 11 e i 15 anni a cui 
                         veniva insegnata l'arte dell'omicidio, se non fossero stati in grado di compiere il loro lavoro, sarebbero stati uccisi
-                        dai loro stessi compagni. Così facendo la Stidda riusci a paralizzare la reazione di Cosa Nostra, non capendo da chi venisse
-                        il pericolo e vide i boss che controllavano le toriche roccaforti di Porto Empedocle, di Camastra, di Palma di Montechiaro, 
-                        di Canicattì, di Rocalmuto, di Ravanusa e di Campobello di Licata, venir brutalmente uccisi.
+                        dai loro stessi compagni. Così facendo la Stidda riuscì a paralizzare la reazione di Cosa Nostra, non capendo da chi venisse
+                        il pericolo e vide i boss che controllavano le storiche roccaforti di Porto Empedocle, di Camastra, di Palma di Montechiaro, 
+                        di Canicattì, di Rocalmuto, di Ravanusa e di Campobello di Licata, venire brutalmente uccisi.
                         La goccia che fece traboccare il vaso fu la spartizione degli appalti per la costruzione della diga Disueri.
                         L'epicentro della guerra fu Geli in cui in 20 minuti furono uccise 8 persone. La guerra causò
                         500 morti. Ma dopo l'omicidio del giudice Livitano e la strage di Gela lo stato colpi così duramente l'organizzazione
-                        che per evitare di essere spazzata vià fu costretta ad allearsi con Cosa Nostra, spartendo a metà tra i due clan le quote degli
+                        che per evitare di essere spazzata via fu costretta ad allearsi con Cosa Nostra, spartendo a metà tra i due clan le quote degli
                         illeciti.
                     </p>
-                    
                 </div>
             </div>        
         </div>
