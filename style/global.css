@@ -5,7 +5,11 @@ al nostro progetto + cose utili*/
 :root {
     --color1: #2c2c2c;
     --color2: #43a680;
-    --color-cards: #20403b;  
+    --color-cards: #20403b;
+    --color-header-footer: white;  
+    --color-card-box-shadow: rgba( 31, 38, 135, 0.37 );
+    --color-risposta-sbagliata: rgba(255, 0, 0, 0.712);
+    --color-risposta-giusta: rgba(0, 255, 170, 0.712);
 }
 
 body {
@@ -28,7 +32,7 @@ header {
 }
 
 header * {
-    color: white;
+    color: var(--color-header-footer);
     
 }
 
@@ -53,17 +57,19 @@ footer {
 }
 
 footer * {
-    color: white;
+    color: var(--color-header-footer);
 }
 
 footer .pagine {
     display: flex;
     flex-wrap: wrap;
-    max-width: 30vh;
+    max-width: 20vw;
+    ;
 }
 
 footer .pagine a {
     margin: 0.5rem;
+    font-size: medium;
 }
 
 .social img {
@@ -88,8 +94,8 @@ footer .pagine a {
 
 .card {
     padding: 0.7rem;
-    background: var(--color-cards);
-    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    background: var(--color1);
+    box-shadow: 0 8px 32px 0 var(--color-card-box-shadow);
     backdrop-filter: blur( 16px );
     -webkit-backdrop-filter: blur( 16px );
     border-radius: 10px;
@@ -100,6 +106,7 @@ footer .pagine a {
 .card * {
     color: rgb(212, 212, 212);  
 }
+
 /*------------------------*/
 
 .centrator {
@@ -119,15 +126,25 @@ footer .pagine a {
 /*paletta (pensavo ad un marrone-verde (cerchiamo di trovare un compromesso sui gradient ;) ))*/
 
 .bg1 {
-    background: #2c2c2c;
+    background: var(--color1);
 }
 
 .bg2 {
-    background: #43a680;
+    background: var(--color2);
 }
 
+/*stile immagine*/
+.stile-img {
+    border-radius: 10px;
+    box-shadow: 0 8px 32px 0 var(--color-card-box-shadow);
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    
+}
 
-
+.stile-img > img {
+    border-radius: 10px;
+    
+}
 
 /* margin predefiniti*/
 .m0 {

@@ -82,7 +82,7 @@ function creazioneModali() {
                     <img src="../Assets/icons/close.png" alt="Facebook" class="m0">
                 </div>
                 
-                <img src="../Assets/xi.jpeg" alt="Facebook" class="m0">
+                
                 <p class="m0">
                     Cosa nostra ha una struttura verticistica, infatti la struttura di base di cosa nostra è la "Famiglia", governata
                     da un capo il quale ha come braccio destro un vicecapo nominato da esso assieme a dei consiglieri, quest'ultimi scelti da 
@@ -90,6 +90,7 @@ function creazioneModali() {
                     Tre o più famigli formano un "Mandamento", essi sono comandati dalla "Cupola", la quale ha un influenza provinciale.
                     I personaggi più famosi legati a Cosa Nostra sono: Totò Riina, Tommaso Buscetta e Francesco Messina Denaro
                 </p>
+                <img src="../Assets/mafieItalia/modalCosaNostra.jpg" alt="Falcone e Borsellino" class="m0 stile-img">
                 <div class="m0">
                     <h3>Codice d'onore</h3>
                     <ul>
@@ -115,7 +116,7 @@ function creazioneModali() {
                     <img src="../Assets/icons/close.png" alt="Facebook" class="m0">
                 </div>
                 
-                <img src="../Assets/xi.jpeg" alt="Facebook" class="m0">
+                <img src="../Assets/mafieItalia/modalCamorra.jpg" alt="Ugo Rosso" class="m0 stile-img">
                 <p class="m0">
                     La camorra, a differenza di cosa nostra, è molto più divisa. Essa conta moltissimi clan tra la provincia e la città. 
                     Per questo le faide tra i clan sono sempre state vivaci. Per la camorra la violenza è l'unica via per risolvere le dispute 
@@ -143,7 +144,7 @@ function creazioneModali() {
                     <img src="../Assets/icons/close.png" alt="Facebook" class="m0">
                 </div>
                 
-                <img src="../Assets/xi.jpeg" alt="Facebook" class="m0">
+                <img src="../Assets/mafieItalia/modalNdrangheta.jpg" alt="L'Ndrangheta nel mondo" class="m0 stile-img">
                 <p class="m0">
                     L'Ndrangheta esercita un controllo capillare sul territorio grazie, appunto, al ricliclaggio di denaro e all'estorsione.
                     L'organizzazione è di tipo verticistico-orizzontale. Come unità di base troviamo l'ndrina, ovvero la famiglia; la differenza
@@ -197,9 +198,9 @@ function creazioneModali() {
                     <img src="../Assets/icons/close.png" alt="Facebook" class="m0">
                 </div>
                 
-                <img src="../Assets/xi.jpeg" alt="Facebook" class="m0">
+                
                 <p class="m0">
-                    Originariamente il tipo di struttura della cosca doveva essere piramidali, formata da otto livelli gerarchici. 
+                    Originariamente il tipo di struttura della cosca doveva essere piramidale, formata da otto livelli gerarchici. 
                     Ma a causa dei conflitti interni per il controllo del territorio, si formo una struttura ad arcipelago.
                     La divisione territoriale funge paradossalmente da collante per l'organizzazione, la quale reculta a livello comunale.
                     Come nelle Camorra, anche nella SCU l'affiliazioni non prevede rituali particolari.
@@ -208,6 +209,7 @@ function creazioneModali() {
                     che può esercitare quell'affiliato. L'ultimo rango della scala è coperto da 8 individui, i quali compongono la "Società segretissima",
                     la quale comanda un corpo speciale chiamato la "Squadra della morte".
                 </p>
+                <img src="../Assets/mafieItalia/modalScu.jpg" alt="Provincia di Bari" class="m0 stile-img">
                 <div class="m0">
                     <h3>La divione gerarchica all'interno dei clan</h3>
                     <ul>
@@ -231,17 +233,19 @@ function creazioneModali() {
                     <img src="../Assets/icons/close.png" alt="Facebook" class="m0">
                 </div>
                 
-                <img src="../Assets/xi.jpeg" alt="Facebook" class="m0">
+                <img src="../Assets/mafieItalia/modalStidda.jpg" alt="Rosario Livitano" class="m0 stile-img">
                 <p class="m0">
                    La stidda nasce da alcuni giovani che si slegarono da Cosa Nostra formando una loro organizzazione criminale.
                    All'inizio, per sopravvivere, non entrarono in conflitto con il clan maggiore. Questa situazione cambiò quando
                    grandi nomi di Cosa Nostra iniziarono, a causa di faide interne allo stesso clan, ad unirsi alla Stidda. Così 
+                   
                    iniaziò la guerra a Cosa Nostra. Grazie all'impiego di giovanissimi il clan ne uscì vincitore. La grande risposta dello 
                    stato in seguito all'uccisione del giudice Rosario Livitano, costrinse la Stidda ad allearsi con Cosa Nostra.
                    La struttura è molto simile a quella di Cosa Nostro, ma molto meno organizzata. Solo negli anni 90' l'organizzazione
                    unì maggiormente la struttura e fece entrare la consuetudine di far incontrare i capi famiglia ogni tot tempo per decidere
                    obbiettivi, logistica e controllo del territorio.
                 </p>
+               
                 <div class="m0">
                     <h3>La lotta con Cosa Nostra</h3>
                     <p>

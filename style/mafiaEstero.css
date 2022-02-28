@@ -1,25 +1,21 @@
-
-
-
 .cosa-nostra {                                         
-    background: linear-gradient(to right, var(--color1) 0px, transparent 150px), url(../Assets/mafieItalia/cosa_nostra.jpg)var(--color1); 
+    background: linear-gradient(to right, var(--color1) 0px, transparent 150px), url(../Assets/mafieEstero/yakuza.jpg)var(--color1); 
 }
 
 .camorra {
-    background: linear-gradient(to right, var(--color1) 0px, transparent 150px), url(../Assets/mafieItalia/camorra.jpg)var(--color1); 
+    background: linear-gradient(to right, var(--color1) 0px, transparent 150px), url(../Assets/mafieEstero/triade.jpg)var(--color1); 
 }
 .ndrangheta {
-    background: linear-gradient(to right, var(--color1) 0px, transparent 150px), url(../Assets/mafieItalia/ndranghta.jpg)var(--color1); 
+    background: linear-gradient(to right, var(--color1) 0px, transparent 150px), url(../Assets/mafieEstero/russa.jpg)var(--color1); 
 }
 .sacra-corona-unita {
-    background: linear-gradient(to right, var(--color1) 0px, transparent 150px), url(../Assets/mafieItalia/scu.jpg)var(--color1); 
+    background: linear-gradient(to right, var(--color1) 0px, transparent 150px), url(../Assets/mafieEstero/sinaloa.jpg)var(--color1); 
 }
 .stidda {
-    background: linear-gradient(to right, var(--color1) 0px, transparent 150px), url(../Assets/mafieItalia/stidda.jpg)var(--color1); 
+    background: linear-gradient(to right, var(--color1) 0px, transparent 150px), url(../Assets/mafieEstero/italoamericana.jpg)var(--color1); 
 }
-
 main {
-    margin: 0 15vw;
+    margin: 0 20vw;
 }
 
 /*animazione card hover*/
@@ -29,12 +25,15 @@ main {
 }
 
 .card {
+
     transition: all .2s ease-in-out;
 
     background-repeat: no-repeat;
     background-size: 45% 100%;
     background-position: right;
+    
 }
+
 
 /*modale*/
 
@@ -42,20 +41,22 @@ main {
     transform: none;
     cursor: default;
 
-    background: #20403b;
+    background: var(--color-cards);
       
-    max-height: 70%;
+   
     max-width: 55%;
+    max-height: 70%;
     overflow-y: scroll;
-    box-shadow: 0 8px 32px 0 rgba(35, 36, 44, 0.37);
+    box-shadow: 0 8px 32px 0 var(--color-card-box-shadow);
 }
 
-.modal .card > img{
+.modal .card > img {
     max-height: 60vh;
     min-height: 40vh;
 
     min-width: 15vw;
     max-width: 25vw;
+
     float: left;
 }
 

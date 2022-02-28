@@ -1,3 +1,7 @@
+main {
+    margin: 0 25vw;
+}
+
 .par-introduttivo {
     text-align: center;
 }
@@ -40,14 +44,14 @@
 
 /*card con immagine*/
 .mafie-italia {
-    background: linear-gradient(to bottom, var(--color-cards) 10px, transparent 130px), url(../Assets/xi.jpeg),var(--color-cards);
+    background: linear-gradient(to bottom, var(--color1) 0, transparent 150px), url(../Assets/index/MafiaItaliana.jpg)var(--color1);
     background-repeat: no-repeat;
     background-size: 100% 50%;
     background-position: bottom;
 }
 
 .storia {
-    background: linear-gradient(to bottom, var(--color-cards) 10px, transparent 130px), url(../Assets/xi.jpeg),var(--color-cards);
+    background: linear-gradient(to bottom, var(--color1) 0, transparent 150px), url(../Assets/index/Storia.jpg)var(--color1);
     background-repeat: no-repeat;
     background-size: 100% 50%;
     background-position: bottom;

@@ -82,7 +82,7 @@ function creazioneModali() {
                     <img src="../Assets/icons/close.png" alt="Facebook" class="m0">
                 </div>
                 
-                <img src="../Assets/xi.jpeg" alt="Facebook" class="m0">
+                <img src="../Assets/mafieEstero/modalYakuza.jpg" alt="Yakuza" class="m0 stile-img">
                 <p class="m0">
                     Una particolarità della Yakuza che la differisce dalle altre organizzazioni mafiose, e quello
                     di avere un riconoscimento legale nella Costituzione giapponese, quindi operi alla luce del sole.
@@ -133,7 +133,7 @@ function creazioneModali() {
                     <img src="../Assets/icons/close.png" alt="Facebook" class="m0">
                 </div>
                 
-                <img src="../Assets/xi.jpeg" alt="Facebook" class="m0">
+                <img src="../Assets/mafieEstero/modalTriade.jpg" alt="Guan Yu" class="m0 stile-img">
                 <p class="m0">
                     La struttura della triade è gerarchica, inoltre la Triade è divisa in tanti gruppi con valori di influenza diversi. 
                     Le posizioni all’interno delle cosche sono rappresentati da numeri simbolici, basati sull' 
@@ -188,7 +188,7 @@ function creazioneModali() {
                     <img src="../Assets/icons/close.png" alt="Facebook" class="m0">
                 </div>
                 
-                <img src="../Assets/xi.jpeg" alt="Facebook" class="m0">
+                <img src="../Assets/mafieEstero/modalRussa.jpg" alt="vor v zakone" class="m0 stile-img">
                 <p class="m0">
                     L’Organizacija, a differenza di Cosa Nostra, non presenta una struttura verticistica. 
                     Non c’è una “Cupola” che dirige tutte le bande. Esse controllano province o intere repubbliche. 
@@ -221,7 +221,7 @@ function creazioneModali() {
                     <img src="../Assets/icons/close.png" alt="Facebook" class="m0">
                 </div>
                 
-                <img src="../Assets/xi.jpeg" alt="Facebook" class="m0">
+                <img src="../Assets/mafieEstero/modalSinaloa.png" alt="cartello di Sinaloa" class="m0 stile-img">
                 <p class="m0">
                     Il  funzionamento del cartello sarebbe simile a un’alleanza in cui ogni membro o subalterno controlla 
                     attività e zone di competenza, ma giurando fedeltà ai capi massimi e proteggendosi a vicenda,  
@@ -249,7 +249,7 @@ function creazioneModali() {
                     <img src="../Assets/icons/close.png" alt="Facebook" class="m0">
                 </div>
                 
-                <img src="../Assets/xi.jpeg" alt="Facebook" class="m0">
+                
                 <p class="m0">
                     La struttura familiare di Cosa Nostra è stata mantenuta dagli immigrati anche in America. 
                     Negli ultimi anni molte famiglie storiche come quella di Now Orleans non esistono più o hanno 
@@ -262,6 +262,7 @@ function creazioneModali() {
                     non possiedono più un unico boss, ma la leadership viene passata continuamente di mano in mano a vari boss, 
                     a seconda delle convenienze, con un sistema a rotazione, in modo tale da far perdere le proprie tracce.
                 </p>
+                <img src="../Assets/mafieEstero/modalItaloamerica.jpg" alt="vor v zakone" class="m0 stile-img">
                 <div class="m0">
                     <h3>Codice d'onore</h3>
                     <ul>
