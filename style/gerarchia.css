@@ -46,9 +46,10 @@
 }
 
 #container {
+  margin: 0 10vw;
   display: grid; 
   grid-template-columns: 1fr 1.5fr 1fr; 
-  grid-template-rows: 1fr 1fr 0.8fr 0.8fr 0.8fr; 
+  grid-template-rows: 1fr 1fr 0.7fr 0.7fr 0.7fr; 
   gap: 50px 25px; 
   grid-template-areas: 
     ". membro-1 membro-2"
