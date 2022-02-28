@@ -104,6 +104,7 @@ function quizFinito() {
     removeHide(document.querySelector(".modal"))
 
     listaTabDom.forEach(element => {
+        element.classList.add("pointer")
         element.addEventListener("click", function (e) {
             listaHtmlDomande.forEach(element => {
                 addHide(element)
