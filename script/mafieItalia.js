@@ -233,31 +233,30 @@ function creazioneModali() {
                 
                 <img src="../Assets/xi.jpeg" alt="Facebook" class="m0">
                 <p class="m0">
-                    udin nibh sollicitudin sit amet. Proin et magna eget lectus egestas rhoncus 
-                    ac vitae tellus. Nullam vitae mi faucibus enim facilisis venenatis sit udin nibh sollicitudin sit amet. 
-                    Proin et magna eget lectus egestas rhoncus 
-                    ac vitae tellus. Nullam vitae mi faucibus enim facilisis venenatis sit 
+                   La stidda nasce da alcuni giovani che si slegarono da Cosa Nostra formando una loro organizzazione criminale.
+                   All'inizio, per sopravvivere, non entrarono in conflitto con il clan maggiore. Questa situazione cambiò quando
+                   grandi nomi di Cosa Nostra iniziarono, a causa di faide interne allo stesso clan, ad unirsi alla Stidda. Così 
+                   iniaziò la guerra a Cosa Nostra. Grazie all'impiego di giovanissimi il clan ne uscì vincitore. La grande risposta dello 
+                   stato in seguito all'uccisione del giudice Rosario Livitano, costrinse la Stidda ad allearsi con Cosa Nostra.
+                   La struttura è molto simile a quella di Cosa Nostro, ma molto meno organizzata. Solo negli anni 90' l'organizzazione
+                   unì maggiormente la struttura e fece entrare la consuetudine di far incontrare i capi famiglia ogni tot tempo per decidere
+                   obbiettivi, logistica e controllo del territorio.
                 </p>
                 <div class="m0">
-                    <h3>Nullam vitae mi faucibus</h3>
-                    <ul>
-                        <li>
-                            udin nibh sollicitudin sit amet. Proin et magna eget lectus egestas rhoncus 
-                            ac vitae tellus.
-                        </li>
-                        <li>
-                            udin nibh sollicitudin sit amet. Proin et magna eget lectus egestas rhoncus 
-                            ac vitae tellus.
-                        </li>
-                        <li>
-                            udin nibh sollicitudin sit amet. Proin et magna eget lectus egestas rhoncus 
-                            ac vitae tellus.
-                        </li>
-                        <li>
-                            udin nibh sollicitudin sit amet. Proin et magna eget lectus egestas rhoncus 
-                            ac vitae tellus.
-                        </li>
-                    </ul>
+                    <h3>La lotta con Cosa Nostra</h3>
+                    <p>
+                        Per vincere gli Stiddari reclutarono giovanissimi tra gli 11 e i 15 anni a cui 
+                        veniva insegnata l'arte dell'omicidio, se non fossero stati in grado di compiere il loro lavoro, sarebbero stati uccisi
+                        dai loro stessi compagni. Così facendo la Stidda riusci a paralizzare la reazione di Cosa Nostra, non capendo da chi venisse
+                        il pericolo e vide i boss che controllavano le toriche roccaforti di Porto Empedocle, di Camastra, di Palma di Montechiaro, 
+                        di Canicattì, di Rocalmuto, di Ravanusa e di Campobello di Licata, venir brutalmente uccisi.
+                        La goccia che fece traboccare il vaso fu la spartizione degli appalti per la costruzione della diga Disueri.
+                        L'epicentro della guerra fu Geli in cui in 20 minuti furono uccise 8 persone. La guerra causò
+                        500 morti. Ma dopo l'omicidio del giudice Livitano e la strage di Gela lo stato colpi così duramente l'organizzazione
+                        che per evitare di essere spazzata vià fu costretta ad allearsi con Cosa Nostra, spartendo a metà tra i due clan le quote degli
+                        illeciti.
+                    </p>
+                    
                 </div>
             </div>        
         </div>
