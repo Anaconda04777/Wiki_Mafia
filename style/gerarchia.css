@@ -72,7 +72,7 @@ svg {
 
 .ruolo1 svg {
   order: 0;
-  transform: rotate(90deg);
+  transform: rotate(270deg);
 }
 
 
