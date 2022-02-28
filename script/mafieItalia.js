@@ -193,36 +193,32 @@ function creazioneModali() {
         <div class="modal centrator modal-sacra-corona-unita hide">
             <div class="card bg2">
                 <div>
-                    <h2 class="m0">Integer dui turpis</h2>
+                    <h2 class="m0">Sacra Corona Unita</h2>
                     <img src="../Assets/icons/close.png" alt="Facebook" class="m0">
                 </div>
                 
                 <img src="../Assets/xi.jpeg" alt="Facebook" class="m0">
                 <p class="m0">
-                    udin nibh sollicitudin sit amet. Proin et magna eget lectus egestas rhoncus 
-                    ac vitae tellus. Nullam vitae mi faucibus enim facilisis venenatis sit udin nibh sollicitudin sit amet. 
-                    Proin et magna eget lectus egestas rhoncus 
-                    ac vitae tellus. Nullam vitae mi faucibus enim facilisis venenatis sit 
+                    Originariamente il tipo di struttura della cosca doveva essere piramidali, formata da otto livelli gerarchici. 
+                    Ma a causa dei conflitti interni per il controllo del territorio, si formo una struttura ad arcipelago.
+                    La divisione territoriale funge paradossalmente da collante per l'organizzazione, la quale reculta a livello comunale.
+                    Come nelle Camorra, anche nella SCU l'affiliazioni non prevede rituali particolari.
+                    Il clan è diviso territorialmente e strutturalmente in tre parti: Società foggiana, Camorra Barese e La Sacra Corona Libera.
+                    La divisione gerarchica all'interno di ogni clan è puramente simbolica, spesso il rango ottenuto non corrisponde all'effettivo potere
+                    che può esercitare quell'affiliato. L'ultimo rango della scala è coperto da 8 individui, i quali compongono la "Società segretissima",
+                    la quale comanda un corpo speciale chiamato la "Squadra della morte".
                 </p>
                 <div class="m0">
-                    <h3>Nullam vitae mi faucibus</h3>
+                    <h3>La divione gerarchica all'interno dei clan</h3>
                     <ul>
-                        <li>
-                            udin nibh sollicitudin sit amet. Proin et magna eget lectus egestas rhoncus 
-                            ac vitae tellus.
-                        </li>
-                        <li>
-                            udin nibh sollicitudin sit amet. Proin et magna eget lectus egestas rhoncus 
-                            ac vitae tellus.
-                        </li>
-                        <li>
-                            udin nibh sollicitudin sit amet. Proin et magna eget lectus egestas rhoncus 
-                            ac vitae tellus.
-                        </li>
-                        <li>
-                            udin nibh sollicitudin sit amet. Proin et magna eget lectus egestas rhoncus 
-                            ac vitae tellus.
-                        </li>
+                        <li>Picciotteria</li>
+                        <li>Camorrista</li>
+                        <li>Sgarrista</li>
+                        <li>Santista</li>
+                        <li>Evangelista</li>
+                        <li>Trequartista</li>
+                        <li>Medaglioni della Società Maggiore</li>
+                        <li>Medaglioni con Catena della Società Maggiore</li>
                     </ul>
                 </div>
             </div>        
@@ -231,7 +227,7 @@ function creazioneModali() {
         <div class="modal centrator modal-stidda hide">
             <div class="card bg2">
                 <div>
-                    <h2 class="m0">Integer dui turpis</h2>
+                    <h2 class="m0">Stidda</h2>
                     <img src="../Assets/icons/close.png" alt="Facebook" class="m0">
                 </div>
                 
