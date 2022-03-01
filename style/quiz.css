@@ -1,7 +1,7 @@
 main {
     display: flex;
     margin-bottom: auto;
-    margin: 0 25vw;
+    margin: 0 10vw;
 }
 
 
@@ -35,16 +35,13 @@ main.card {
     color: black;
 }
 
+/*mettere un grid*/
 .tabella-domande {
-    display: flex;
-    max-width: 15vw;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
     height: fit-content;
-    flex-wrap: wrap;
-    align-content: center;
-    justify-content: center;
-    float: left;
-
-    margin-left: 0;
+    
     
 }
 

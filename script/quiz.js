@@ -162,7 +162,7 @@ function creaElementi() {
     
     //tabella domande
     for (let i = 0; i < domande.length; i++) {
-        tabellaDomande.innerHTML += `<div class="card m0 centrator">${i+1}</div>`
+        tabellaDomande.innerHTML += `<div class="card m0 centrator c${i}">${i+1}</div>`
     }
 
     
