@@ -6,7 +6,7 @@ al nostro progetto + cose utili*/
     --color1: #2c2c2c;
     --color2: #43a680;
     --color-cards: #20403b;
-    --color-header-footer: white;  
+    --color-header-footer: rgba(218, 218, 218, 0.966);  
     --color-card-box-shadow: rgba( 31, 38, 135, 0.37 );
     --color-risposta-sbagliata: rgba(255, 0, 0, 0.712);
     --color-risposta-giusta: rgba(0, 255, 170, 0.712);
@@ -20,6 +20,11 @@ body {
     margin: 0;
     text-decoration: none;
     color: black;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+p {
+    font-size: 14px;
+    font-weight: lighter;
 }
 main {
     margin: 0 15vw;
@@ -104,7 +109,7 @@ footer .pagine a {
 }
 
 .card * {
-    color: rgb(212, 212, 212);  
+    color: var(--color-header-footer);  
 }
 
 /*------------------------*/

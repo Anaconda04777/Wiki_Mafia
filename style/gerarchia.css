@@ -1,8 +1,4 @@
 
-* {
-  font-size: 15;
-}
-
 .card {
   position: relative;
   /*ho tolto il min-height: perchè se no la card consigliere veniva più alta delle altre;*/
