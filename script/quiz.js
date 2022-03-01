@@ -116,6 +116,11 @@ const domande = [
         risposte : ["Giovanissimi tra gli 11 e i 15 anni", "Armi avanzate importate dal medio oriente",
                  "Il supporto della Camorra", "La collaborazione con lo stato"],
         rispostaCorretta : "Giovanissimi tra gli 11 e i 15 anni",
+    },
+    {
+        titolo : "Il consigliere ha l'autorità di dare degli ordini al boss?",  
+        risposte : ["Vero", "Falso"],
+        rispostaCorretta : "Falso",
     }
 
 
