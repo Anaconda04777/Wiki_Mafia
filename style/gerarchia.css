@@ -1,10 +1,12 @@
 
-
+* {
+  font-size: 15;
+}
 
 .card {
   position: relative;
   /*ho tolto il min-height: perchè se no la card consigliere veniva più alta delle altre;*/
-  height: 30vh;
+  height: 31vh;
   overflow: hidden;
 }
 
@@ -29,7 +31,7 @@
 }
 
 .news-Slide-up:hover .newsCaption {
-  opacity: .6;
+  opacity: .7;
   top: 0px;
   transform: translateY(0px) !important; 
   transition: opacity 0.1s;
