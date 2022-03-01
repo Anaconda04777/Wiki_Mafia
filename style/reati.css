@@ -30,7 +30,7 @@
 }
 
 .news-Slide-up:hover .newsCaption {
-  opacity: .6;
+  opacity: .7;
   top: 0px;
   transform: translateY(0px) !important; 
   transition: opacity 0.1s;

@@ -1,40 +1,40 @@
 
 const reati = [
     {
-        titolo:"reato 1",
+        titolo:"Riciclaggio di denaro",
         id:"reato-1",
-        img:"../Assets/xi.jpeg",
-        testo:"Ex do ullamco esse magna in amet excepteur nisi id occaecat qui dolor. Proident adipisicing velit amet ex ut nulla qui occaecat est excepteur deserunt ex dolor. Laboris aliqua sit aliquip nostrud ex adipisicing sit adipisicing Lorem id nostrud. Est reprehenderit veniam adipisicing labore ex aliqua et elit veniam commodo ex aliquip est."
+        img:"../Assets/reati/riciclaggio.png",
+        testo:"Il riciclaggio, oltre che un reato, è una metodologia criminale che si avvale dei risultati delle scienze finanziarie e bancarie per dare una parvenza lecita a capitali la cui provenienza è in realtà illecita(denaro sporco), rendendone così più difficile l'identificazione e il successivo eventuale recupero.\nSi dividein tre fasi: Introduzione nel mercato, Stratificazione e Integrazione"
     },
     {
-        titolo:"reato 2",
+        titolo:"Usura",
         id:"reato-2",
         img:"",
-        testo:"Ex do ullamco esse magna in amet excepteur nisi id occaecat qui dolor. Proident adipisicing velit amet ex ut nulla qui occaecat est excepteur deserunt ex dolor. Laboris aliqua sit aliquip nostrud ex adipisicing sit adipisicing Lorem id nostrud. Est reprehenderit veniam adipisicing labore ex aliqua et elit veniam commodo ex aliquip est."
+        testo:""
     },
     {
-        titolo:"reato 3",
+        titolo:"Appalti illeciti",
         id:"reato-3",
         img:"",
-        testo:"Ex do ullamco esse magna in amet excepteur nisi id occaecat qui dolor. Proident adipisicing velit amet ex ut nulla qui occaecat est excepteur deserunt ex dolor. Laboris aliqua sit aliquip nostrud ex adipisicing sit adipisicing Lorem id nostrud. Est reprehenderit veniam adipisicing labore ex aliqua et elit veniam commodo ex aliquip est."
+        testo:""
     },
     {
-        titolo:"reato 4",
+        titolo:"Spaccio di droga",
         id:"reato-4",
         img:"",
-        testo:"Ex do ullamco esse magna in amet excepteur nisi id occaecat qui dolor. Proident adipisicing velit amet ex ut nulla qui occaecat est excepteur deserunt ex dolor. Laboris aliqua sit aliquip nostrud ex adipisicing sit adipisicing Lorem id nostrud. Est reprehenderit veniam adipisicing labore ex aliqua et elit veniam commodo ex aliquip est."
+        testo:""
     },
     {
         titolo:"reato 5",
         id:"reato-5",
         img:"",
-        testo:"Ex do ullamco esse magna in amet excepteur nisi id occaecat qui dolor. Proident adipisicing velit amet ex ut nulla qui occaecat est excepteur deserunt ex dolor. Laboris aliqua sit aliquip nostrud ex adipisicing sit adipisicing Lorem id nostrud. Est reprehenderit veniam adipisicing labore ex aliqua et elit veniam commodo ex aliquip est."
+        testo:""
     },
     {
         titolo:"reato 6",
         id:"reato-6",
         img:"",
-        testo:"Ex do ullamco esse magna in amet excepteur nisi id occaecat qui dolor. Proident adipisicing velit amet ex ut nulla qui occaecat est excepteur deserunt ex dolor. Laboris aliqua sit aliquip nostrud ex adipisicing sit adipisicing Lorem id nostrud. Est reprehenderit veniam adipisicing labore ex aliqua et elit veniam commodo ex aliquip est."
+        testo:""
     }
 ]
 
