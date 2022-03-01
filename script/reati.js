@@ -9,32 +9,32 @@ const reati = [
     {
         titolo:"Usura",
         id:"reato-2",
-        img:"",
-        testo:""
+        img:"../Assets/reati/usura.jpg",
+        testo:"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary,"
     },
     {
         titolo:"Appalti illeciti",
         id:"reato-3",
-        img:"",
-        testo:""
+        img:"../Assets/reati/diga.jpg",
+        testo:"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary,"
     },
     {
         titolo:"Spaccio di droga",
         id:"reato-4",
-        img:"",
-        testo:""
+        img:"../Assets/reati/spaccio.jpg",
+        testo:"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary,"
     },
     {
         titolo:"reato 5",
         id:"reato-5",
         img:"",
-        testo:""
+        testo:"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary,"
     },
     {
         titolo:"reato 6",
         id:"reato-6",
         img:"",
-        testo:""
+        testo:"There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary,"
     }
 ]
 
