@@ -8,40 +8,117 @@ let listaTabDom
 
 const domande = [
     {
-        titolo : "Domanda soo iocwio i",  
-        risposte : ["risposta 1", "risposta 2", "risposta 1", "risposta 1"],
+        titolo : "I piccoli sgarri nella Yakuza con cosa NON sono puniti?",  
+        risposte : ["La rasatura dei capelli", "La reclusione temporanea", "Multe salate", "L'espulsione definitiva"],
+        rispostaCorretta : "L'espulsione definitiva",
+    },
+    {
+        titolo : "Quali di queste NON è nelle regole fondamentali del codice di comportamento della Yakuza? ",  
+        risposte : ["non disobbedire o causare problemi ai tuoi superiori", "Un affiliato non può avere la barba",
+                 "non lottare con i tuoi compagni o non rompere l'armonia dell'organizzazione", "non sprecare i fondi dell'organizzazione"],
+        rispostaCorretta : "Un affiliato non può avere la barba",
+    },
+    {
+        titolo : "Su quali di questi testi è basata la simbologia numerica della Triade?",  
+        risposte : ["Il Libro dei mutamenti", "Il Libro dei riti", "L'I Ching", "Gli Annali delle primavere e degli autunni "],
         rispostaCorretta : "risposta 2",
     },
     {
-        titolo : "Domanda soo iocwio i",  
-        risposte : ["risposta 1", "risposta 2", "risposta 1", "risposta 1"],
-        rispostaCorretta : "risposta 2",
+        titolo : "Quali di queste azioni è praticata nel rito della Triade?",  
+        risposte : ["Devi dimostrare di saper uccidere", "Devi bere sangue umano", "Ti viene fatto un taglio sul palmo", "Devi passare sotto un arco di spade"],
+        rispostaCorretta : "Devi passare sotto un arco di spade",
     },
     {
-        titolo : "Domanda soo iocwio i",  
-        risposte : ["risposta 1", "risposta 2", "risposta 1", "risposta 1"],
-        rispostaCorretta : "risposta 2",
+        titolo : "Che tipo di struttura adotta l'Organizacija?",  
+        risposte : ["Ad arcipelago", "Orizzontale", "Verticale", "Orizzontale-Verticale"],
+        rispostaCorretta : "Orizzontale",
     },
     {
-        titolo : "Domanda soo iocwio i",  
-        risposte : ["risposta 1", "risposta 2", "risposta 1", "risposta 1"],
-        rispostaCorretta : "risposta 2",
+        titolo : "Quali di quste categorie della mafia russa è la più potente?",  
+        risposte : ["Vor v zakone", "I Grandi gruppi", "I piccolo gruppi di strada", "La cupola"],
+        rispostaCorretta : "Vor v zakone",
     },
     {
-        titolo : "Domanda soo iocwio i",  
-        risposte : ["risposta 1", "risposta 2", "risposta 1", "risposta 1"],
-        rispostaCorretta : "risposta 2",
+        titolo : "Con chi entrò in conflitto il cartello di Sinaloa negli anni '80?",  
+        risposte : ["Cartello di Guadalajara", "Cartello di Juárez", "Cartello di Tijuana", "Cartello del Golfo"],
+        rispostaCorretta : "Cartello di Tijuana",
     },
     {
-        titolo : "Domanda soo iocwio i",  
-        risposte : ["risposta 1", "risposta 2", "risposta 1", "risposta 1"],
-        rispostaCorretta : "risposta 2",
+        titolo : "In quali di questi continenti NON opera il cartello di Sinaloa?",  
+        risposte : ["Africa", "America", "Europa", "Asia", "Opaera in tutti questi"],
+        rispostaCorretta : "Opaera in tutti questi",
     },
     {
-        titolo : "Domanda soo iocwio i",  
-        risposte : ["risposta 1", "risposta 2", "risposta 1", "risposta 1"],
-        rispostaCorretta : "risposta 2",
+        titolo : "La mafia italo-americana ammetti al suo interno non italiani?",  
+        risposte : ["Si", "No", "No, ma possono collaborare"],
+        rispostaCorretta : "No, ma possono collaborare",
+    },
+    {
+        titolo : "Oggi cosa NON usa Cosa Nostra America per operare nell'ombra?",  
+        risposte : ["Gang di strada", "Bikers fuorilegge", "Giovani ragazzi presi dalla strada"],
+        rispostaCorretta : "Giovani ragazzi presi dalla strada",
+    },
+    {
+        titolo : "La Famiglia di Cosa Nostra è per forza legata da rapporti di sangue?",  
+        risposte : ["Si", "No"],
+        rispostaCorretta : "No",
+    },
+    {
+        titolo : "Quali di questi NON è un requisito per entrare in Cosa Nostra?",  
+        risposte : ["Non avere un parente nelle forze dell'ordine", "Non devi aver tradito la tua famiglia",
+                 "Avere dei saldi valori morali", "Essere abile nell'uso del coltello"],
+        rispostaCorretta : "Essere abile nell'uso del coltello",
+    },
+    {
+        titolo : "Rispetto a Cosa Nostra la Camorra è:",  
+        risposte : ["Meno pericolosa", "Di recente formazione",
+                 "Divisa in clan", "Stata molto più attiva negli anni di piombo"],
+        rispostaCorretta : "Divisa in clan",
+    },
+    {
+        titolo : "Quali di questi reati è il principale della Camorra?",  
+        risposte : ["Il riciclaggio", "L'usura",
+                 "Il narcotraffico", "Lo smaltimento di rifiuti"],
+        rispostaCorretta : "Il narcotraffico",
+    },
+    {
+        titolo : "Come si chiama l'entità di base dell'Ndrangheta?",  
+        risposte : ["La Locale", "La Famiglia",
+                 "La Provincia", "L'Andrina"],
+        rispostaCorretta : "L'Andrina",
+    },
+    {
+        titolo : "Di cosa si occupa il Capo Bastone nell'Ndrangheta?",  
+        risposte : ["Si occupa degli Omicidi", "Si occupa dello spaccio nelle piazze",
+                 "Dirige l'attività illecita sul territorio", "E' il responsabile della pianificazione e dell'esecuzione delle attività illecite"],
+        rispostaCorretta : "Dirige l'attività illecita sul territorio",
+    },
+    {
+        titolo : "Quali di questi ruoli NON fa parte della divisione gerarchica della Sacra-Corona-Unita?",  
+        risposte : ["Camorrista", "Evangelista",
+                 "Medaglioni con Catena della Società Maggiore", "Santificato"],
+        rispostaCorretta : "Santificato",
+    },
+    {
+        titolo : "Che tipo di approccio decide di adottare la Sacra-Corona-Unita sul territorio?",  
+        risposte : ["Cerca di infiltrarsi il più possibile nella politica", "Cerca di mantenere un controllo capillare sulla popolazione tramite atti violenti in piena vista",
+                 "Predilige una strategia di infiltrazione e mimetizzazione nel tessuto sociale e imprenditoriale"],
+        rispostaCorretta : "Predilige una strategia di infiltrazione e mimetizzazione nel tessuto sociale e imprenditoriale",
+    },
+    {
+        titolo : "Chi fu il giudice ucciso dalla Stidda?",  
+        risposte : ["Domenico Abatemarco", "Rosario Livitano",
+                 "Ludovico Acerbi", "Giovani Falcone", "Paolo Borsellino"],
+        rispostaCorretta : "Rosario Livitano",
+    },
+    {
+        titolo : "Cosa adottò la Stidda per battere Cosa Nostra?",  
+        risposte : ["Giovanissimi tra gli 11 e i 15 anni", "Armi avanzate importate dal medio oriente",
+                 "Il supporto della Camorra", "La collaborazione con lo stato"],
+        rispostaCorretta : "Giovanissimi tra gli 11 e i 15 anni",
     }
+
+
 ]
 
 

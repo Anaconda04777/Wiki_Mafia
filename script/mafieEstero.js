@@ -170,7 +170,7 @@ function creazioneModali() {
                         Il rito di affiliazione è molto particolare: 
                         la cerimonia si svolge di fronte ad un altare dedicato a Guan Yu (un generale dell’antica Cina), 
                         sono presenti anche dell'incenso e un animale sacrificale. L’aspirante affiliato deve bere 
-                        del vino misto a un po’ del sangue dell’animale sacrificato e passare sotto un arco di spade 
+                        del vino misto a un po’ del sangue dell’animale sacrificato e deve passare sotto un arco di spade 
                         recitando la formula di giuramento delle Triadi. In seguito un foglio sopra il quale è scritto 
                         il giuramento viene bruciato per confermare che egli manterrà i suoi impegni verso gli dei. 
                         Tre dita della mano sinistra vengono sollevate come gesto vincolante 
