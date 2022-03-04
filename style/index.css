@@ -50,7 +50,7 @@ main {
     background-position: bottom;
 }
 
-.storia {
+.reati {
     background: linear-gradient(to bottom, var(--color1) 0, transparent 150px), url(../Assets/index/Storia.jpg)var(--color1);
     background-repeat: no-repeat;
     background-size: 100% 50%;
@@ -67,8 +67,8 @@ main {
     grid-auto-flow: row;
     grid-template-areas:
       "par-introduttivo par-introduttivo par-introduttivo"
-      "img-apertura mafie-Italia storia"
-      "organizzazione mafie-estere reati"
+      "img-apertura mafie-Italia reati"
+      "organizzazione mafie-estere mafie-estere"
       "quiz quiz quiz";
   }
   
@@ -77,8 +77,6 @@ main {
   .img-apertura { grid-area: img-apertura; }
   
   .mafie-Italia { grid-area: mafie-Italia; }
-  
-  .storia { grid-area: storia; }
   
   .organizzazione { grid-area: organizzazione; }
   

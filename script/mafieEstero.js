@@ -92,7 +92,8 @@ function creazioneModali() {
                     ogni famiglia è suddivisa in 4 livelli: i Saiko kanbu (dirigenti supremi), al vertice della famiglia,
                     i Kanbu (dirigenti), i Waka-chu (giovani organizzatori), i Jun kosei-in (apprendisti), incaricati della protezione dei 
                     membri anziani e dediti a svariate mansioni (rispondere al telefono, autisti, servire gli ospiti), possono essere jun kosei-in
-                    anche membri esterni alla famiglia.
+                    anche membri esterni alla famiglia. I reati in cui sono specializzati sono: Speculazioni finanziarie e immobiliari, traffico di droga e armi,
+                    estorsioni, gioco d'azzardo, sfruttamento della prostituzione e infiltrazione nelle attività aziendali.  
 
                 </p>
                 <div class="m0">
@@ -136,7 +137,9 @@ function creazioneModali() {
                 
                 <img src="../Assets/mafieEstero/modalTriade.jpg" alt="Guan Yu" class="m0 stile-img">
                 <p class="m0">
-                    La struttura della triade è gerarchica, essa è divisa in tanti gruppi con valori di influenza diversi. 
+                    La Triade è divisa in gruppi che vanno da piccole bande di strada
+                    alle più potenti come: Sun Yee On, Wo Shing Wo e 14K.
+                    La struttura è gerarchica, essa è divisa in tanti gruppi con valori di influenza diversi. 
                     Le posizioni all’interno delle cosche sono rappresentati da numeri simbolici, basati sull' 
                     I Ching uno dei primi testi classici cinesi:
                 </p>
@@ -199,6 +202,8 @@ function creazioneModali() {
                     e, sparse su tutto il territorio, i cosiddetti "ladri nella legge" (vor v zakone), 
                     sono le cosche con più potere, sia economico che politico, spesso sono avvocati, medici, ingegneri e politici. 
                     Sono in grado di svolgere grandi operazioni finanziarie, avendo a disposizione ingenti capitali.
+                    I reati principiali sono: frode, riciclaggio internazionale di denaro, estorsione, traffico di droga,
+                    traffico di armi e prostituzione.
                 </p>
                 <div class="m0">
                     <h3>Modus Operandi:</h3>
@@ -224,13 +229,15 @@ function creazioneModali() {
                 
                 <img src="../Assets/mafieEstero/modalSinaloa.png" alt="cartello di Sinaloa" class="m0 stile-img">
                 <p class="m0">
+                    Originario degli stati di Sinaloa, Sonora e Chihuahua; trova le sue origini negli anni 60.
+                    Le droghe più esportate sono: marijuana, eroina, cocaina e metanfetamina.
                     Il  funzionamento del cartello è simile a un’alleanza in cui ogni membro o subalterno controlla 
                     attività e zone di competenza, ma giurano fedeltà ai capi massimi e si proteggono a vicenda  
                     Con regole di obbedienza simili alla mafia Italiana. Le organizzazioni Messicane sono note per la loro violenza 
                     e le continue guerre tra i vari cartelli. Basti pensare che negli anni '80 il cartello di Sinaloa entro in 
                     conflitto con il Cartello di Tijuana; entrambi i cartelli erano figli del Cartello di Guadalajara, 
                     che si sciolse dopo l’arresto del Boss  Miguel Ángel Félix Gallardo.
-                    Alla fine degli anni ‘80 Sinaloa si alleò con il  Cartello di Juárez in contrasto con il Cartello del Golfo e di Tijuana.
+                    Alla fine degli anni '80 Sinaloa si alleò con il  Cartello di Juárez in contrasto con il Cartello del Golfo e di Tijuana.
                     Ad oggi il cartello di Tijuana è stato quasi sconfitto.
                     Nel 2005, il Cartello di Beltrán Leyva, che era alleato con Sinaloa, ruppe l'alleanza. E già nel 2006, 
                     il cartello di Sinaloa aveva eliminato completamente la presenza del cartello rivale al confine e 
@@ -253,6 +260,8 @@ function creazioneModali() {
                 
                 
                 <p class="m0">
+                    Nonostante non sia più potente come negli 30-40 del 900, non è ancora stata superata delle gang di strada o dalle mafie russe
+                    /cinesi. Le aree di maggiore influenza negli stati uniti sono: East Coast, Midwest, New England e Florida,in Canada nel Québec.
                     La struttura familiare di Cosa Nostra è stata mantenuta dagli immigrati anche in America. 
                     Negli ultimi anni molte famiglie storiche come quella di Now Orleans non esistono più o hanno 
                     diminuito affiliati tra i loro ranghi. Inoltre vasti settori criminali sono stati conquistati da 

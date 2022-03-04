@@ -33,6 +33,7 @@ main.card {
 
 .tabella-domande .card {
     color: black;
+    width: 1.5vw;
 }
 
 /*mettere un grid*/

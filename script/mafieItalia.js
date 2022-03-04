@@ -84,7 +84,8 @@ function creazioneModali() {
                 
                 
                 <p class="m0">
-                    Cosa nostra ha una struttura verticistica, la struttura di base di cosa nostra è la "Famiglia", governata
+                    Cosa Nostra è è specializzata negli appalti, nello spaccio di droga e negli omicidi
+                    Essa ha una struttura verticistica, la struttura di base di cosa nostra è la "Famiglia", governata
                     da un capo il quale ha come braccio destro un vicecapo nominato da esso assieme a dei consiglieri, quest'ultimi scelti da 
                     "Uomini d'onore", organizzati in gruppi da 10, chiamati appunto decina. Ogni decina è comandata da un capodecina.
                     Tre o più famiglie formano un "Mandamento", essi sono comandati dalla "Cupola", la quale ha un'influenza provinciale.
@@ -119,13 +120,14 @@ function creazioneModali() {
                 
                 <img src="../Assets/mafieItalia/modalCamorra.jpg" alt="Ugo Rosso" class="m0 stile-img">
                 <p class="m0">
-                    La camorra, a differenza di cosa nostra, è molto più divisa. Essa conta moltissimi clan tra la provincia e la città. 
+                    La Camorra, a differenza di cosa nostra, è molto più divisa. Essa conta moltissimi clan tra la provincia e la città. 
                     Per questo le faide tra i clan sono sempre state vivaci. Per la camorra la violenza è l'unica via per risolvere le dispute 
                     interne. Non essendoci un Boss che raccolga tutti i clan e quindi avendo una struttura frammentata, e più probabile che i capi clan
                     vengano spodestati da tenaci leve. Di conseguenza l'età media dei capi clan è piuttosto bassa. A differenza di cosa nostra, il reclutamento
                     segue regole meno stringenti, i nuovi adepti vengono presi direttamente dalla strada.
                     Un altra caratteristica della camorra è quella di essere piuttosto infiltrata nella politica, o per lo meno è più palese rispetto ad altre
-                    organizzazioni. 
+                    organizzazioni. I reati principiali praticati sono: il traffico di droga,
+                    la contraffazione, il riciclaggio e l'usura. Sono molto attivi anche nel sistema politico. E' molto influente in europa
 
                 </p>
                 <div class="m0">
@@ -156,7 +158,8 @@ function creazioneModali() {
                     commercialista della Locale, dal Crimine: responsabile della pianificazione e dell'esecuzione delle attività illecite.
                     Le Locali sono riunite nelle "Camere di Controllo", le quali governano localmente (in uno stato o in una provincia) la Locale.
                     Al vertice della struttura c'è "Provincia" la quale controlla tutte le Locali. Le cariche massima al suo interno è il Capo crimine, 
-                    massima carica all'interno della 'ndrangheta.
+                    massima carica all'interno della 'ndrangheta. I guadagni maggiori derivano dal narcotraffico, ma è molto specializzata anche 
+                    nel riciclaggio di denaro, oltre che nell'estorsione, nell'usura, nel traffico di armi, nel gioco d'azzardo e nello smaltimento di rifiuti tossici.
                 </p>
                 <div class="m0">
                     <h3>Le "Doti" tra Società Minore e Società Maggiore</h3>
@@ -208,7 +211,9 @@ function creazioneModali() {
                     Il clan è diviso territorialmente e strutturalmente in tre parti: Società foggiana, Camorra Barese e La Sacra Corona Libera.
                     La divisione gerarchica all'interno di ogni clan è puramente simbolica, spesso il rango ottenuto non corrisponde all'effettivo potere
                     che può esercitare quell'affiliato. L'ultimo rango della scala è coperto da 8 individui, i quali compongono la "Società segretissima",
-                    la quale comanda un corpo speciale chiamato la "Squadra della morte".
+                    la quale comanda un corpo speciale chiamato la "Squadra della morte". L'SCU predilige una strategia di infiltrazione e mimetizzazione
+                    nel tessuto imprenditoriale, cercando, contemporaneamente, il consenso in tutti gli strati della società. I guadagni maggiori dell'organizzazione
+                    derivano: dal traffico di stupefacenti, dalla prostituzione, dal traffico di armi, dall'usura e dall'estorsione.
 
                 </p>
                 <img src="../Assets/mafieItalia/modalScu.jpg" alt="Provincia di Bari" class="m0 stile-img">
@@ -244,7 +249,8 @@ function creazioneModali() {
                     stato, in seguito all'uccisione del giudice Rosario Livitano, costrinse la Stidda ad allearsi con Cosa Nostra.
                     La struttura è molto simile a quella di Cosa Nostra, ma molto meno organizzata. Solo negli anni 90' l'organizzazione
                     unì maggiormente la struttura e fece entrare la consuetudine di far incontrare i capi famiglia ogni tot tempo per decidere
-                    obiettivi, logistica e controllo del territorio.
+                    obiettivi, logistica e controllo del territorio. Le attività economiche principali sono: traffico di droga,
+                    estorsioni, appalti pubblici ed il traffico di armi.
 
                 </p>
                
