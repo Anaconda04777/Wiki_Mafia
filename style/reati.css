@@ -49,8 +49,6 @@
 #container {  
   margin: 0 5vw;
   display: grid;
-  grid-template-columns: 1fr 1fr;
-  grid-template-rows: 1fr 1fr 1fr 1fr;
   gap: 15px 15px;
   grid-auto-flow: row;
   grid-template-areas:
@@ -67,3 +65,29 @@
 #reato-4 { grid-area: reato-4; }
 #reato-5 { grid-area: reato-5; }
 #reato-6 { grid-area: reato-6; }
+
+/*responsive*/
+@media only screen and (max-width: 1230px) {
+
+
+  #container {
+      grid-template-areas:
+      "reato-1"
+      "reato-3"
+      "reato-2"
+      "reato-4"
+      "reato-5"
+      "reato-6";
+  }
+
+  #reato-3 > .newsCaption {
+    transform: translateY(80%);
+  }
+}
+
+@media only screen and (max-width: 700px) {
+  main {
+      margin: 0 0;
+  }
+
+}

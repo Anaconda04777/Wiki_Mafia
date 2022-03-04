@@ -84,7 +84,6 @@ main {
 
     cursor: pointer;
     transform: scale(1.1);
-    cursor: pointer;
 }
 
 /*testo card*/
@@ -115,4 +114,32 @@ main > .card > p {
   .sacra-corona-unita { grid-area: sacra-corona-unita; }
   
   .stidda { grid-area: stidda; }
-  
+
+
+/*responsive*/
+@media only screen and (max-width: 1230px) {
+    .container {
+        grid-template-areas:
+            "cosa-nostra"
+            "camorra"
+            "ndrangheta"
+            "sacra-corona-unita"
+            "stidda";
+    }
+
+    .container > .card {
+        min-height: 17vh;
+    }
+
+    .card:nth-child(5) > p{
+        max-width: 55%;
+    }
+}
+
+@media only screen and (max-width: 700px) {
+    main {
+        margin: 0 5vw;
+    }
+}
+
+

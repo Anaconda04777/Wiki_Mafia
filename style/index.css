@@ -67,7 +67,7 @@ main {
     grid-auto-flow: row;
     grid-template-areas:
       "par-introduttivo par-introduttivo par-introduttivo"
-      "img-apertura mafie-Italia reati"
+      "img-apertura mafie-italia reati"
       "organizzazione mafie-estere mafie-estere"
       "quiz quiz quiz";
   }
@@ -76,7 +76,7 @@ main {
   
   .img-apertura { grid-area: img-apertura; }
   
-  .mafie-Italia { grid-area: mafie-Italia; }
+  .mafie-italia { grid-area: mafie-italia; }
   
   .organizzazione { grid-area: organizzazione; }
   
@@ -88,4 +88,44 @@ main {
 
 
 
-/*r*/
+/*responsive*/
+@media only screen and (max-width: 1230px) {
+    .container {
+        grid-template-areas:
+            "par-introduttivo par-introduttivo par-introduttivo"
+            "img-apertura mafie-italia mafie-italia"
+            "organizzazione reati reati"
+            "mafie-estere mafie-estere mafie-estere"
+            "quiz quiz quiz";
+    }
+}
+
+@media only screen and (max-width: 700px) {
+    main {
+        margin: 0 15vw;
+    }
+
+    .container {
+        grid-template-areas:
+            "par-introduttivo par-introduttivo par-introduttivo"
+            "img-apertura img-apertura img-apertura" 
+            "mafie-italia mafie-italia mafie-italia"
+            "organizzazione organizzazione organizzazione" 
+            "reati reati reati"
+            "mafie-estere mafie-estere mafie-estere"
+            "quiz quiz quiz";
+        
+        }
+
+    .img-apertura {
+        max-height: 30vh;
+    }
+
+    .container > a:nth-child(3), .container > a:nth-child(6)  {
+        min-height: 20vh;
+    }
+
+    
+
+    
+}
