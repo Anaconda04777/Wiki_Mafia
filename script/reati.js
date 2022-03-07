@@ -34,7 +34,7 @@ const reati = [
         titolo:"Sfruttamento della Prostituzione",
         id:"reato-6",
         img:"../Assets/reati/prostituzione.jpg",
-        testo:"Lo sfruttamento della prostituzione (o lenocinio) è l'attività di colui che a qualsiasi titolo tragga vantaggio economico dal meretricio di altre persone;  Spesso l'attività consiste nel guadagnare attraverso gruppi di persone, solitamente donne, costrette a fornire prestazioni sessuali sotto minaccia, coercizione fisica, psicologica e usura. </br> La pratica è spesso associata al traffico di esseri umani: la tratta a sfondo sessuale implica l'induzione di migranti in atti sessuali come condizione stretta e necessaria per effettuare il viaggio, sfruttando la situazione di estrema fragilità della persona lontana dal proprio paese mediante il debito da loro contratto per il viaggio compiuto."
+        testo:"Compie sfruttamento della prostituzione colui che a qualsiasi titolo tragga vantaggio economico dal meretricio di altre persone;  Spesso l'attività consiste nel guadagnare attraverso gruppi di persone costrette a fornire prestazioni sessuali sotto minaccia, coercizione fisica, psicologica e usura. La pratica è spesso associata al traffico di esseri umani: la tratta a sfondo sessuale implica spesso l'induzione di migranti in atti sessuali come 'pagamento' per il viaggio da loro compiuto."
     }
 ]
 

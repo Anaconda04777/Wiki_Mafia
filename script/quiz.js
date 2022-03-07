@@ -10,96 +10,96 @@ const domande = [
     {
         titolo : "I piccoli sgarri nella Yakuza con cosa NON sono puniti?",  
         risposte : ["La rasatura dei capelli", "La reclusione temporanea", "Multe salate", "L'espulsione definitiva"],
-        rispostaCorretta : "L'espulsione definitiva",
+        rispostaCorretta : "L'espulsione definitiva"
     },
     {
         titolo : "Su quali di questi testi è basata la simbologia numerica della Triade?",  
         risposte : ["Il Libro dei mutamenti", "Il Libro dei riti", "L'I Ching", "Gli Annali delle primavere e degli autunni "],
-        rispostaCorretta : "L'I Ching",
+        rispostaCorretta : "L'I Ching"
     },
     {
         titolo : "Che tipo di struttura adotta l'Organizacija?",  
         risposte : ["Ad arcipelago", "Orizzontale", "Verticale", "Orizzontale-Verticale"],
-        rispostaCorretta : "Orizzontale",
+        rispostaCorretta : "Orizzontale"
     },
     {
         titolo : "Con chi entrò in conflitto il cartello di Sinaloa negli anni '80?",  
         risposte : ["Cartello di Guadalajara", "Cartello di Juárez", "Cartello di Tijuana", "Cartello del Golfo"],
-        rispostaCorretta : "Cartello di Tijuana",
+        rispostaCorretta : "Cartello di Tijuana"
     },
     {
         titolo : "La mafia italo-americana ammette al suo interno non italiani?",  
         risposte : ["Si", "No", "No, ma possono collaborare"],
-        rispostaCorretta : "No, ma possono collaborare",
+        rispostaCorretta : "No, ma possono collaborare"
     },
     {
         titolo : "La Famiglia di Cosa Nostra è per forza legata da rapporti di sangue?",  
         risposte : ["Si", "No"],
-        rispostaCorretta : "No",
+        rispostaCorretta : "No"
     },
     {
         titolo : "Rispetto a Cosa Nostra la Camorra è:",  
         risposte : ["Meno pericolosa", "Di recente formazione",
                  "Divisa in clan", "Stata molto più attiva negli anni di piombo"],
-        rispostaCorretta : "Divisa in clan",
+        rispostaCorretta : "Divisa in clan"
     },
     {
         titolo : "Come si chiama l'entità di base dell'Ndrangheta?",  
         risposte : ["La Locale", "La Famiglia",
                  "La Provincia", "L'Andrina"],
-        rispostaCorretta : "L'Andrina",
+        rispostaCorretta : "L'Andrina"
     },
     {
         titolo : "Quali di questi ruoli NON fa parte della divisione gerarchica della Sacra-Corona-Unita?",  
         risposte : ["Camorrista", "Evangelista",
                  "Medaglioni con Catena della Società Maggiore", "Santificato"],
-        rispostaCorretta : "Santificato",
+        rispostaCorretta : "Santificato"
     },
     {
         titolo : "Chi fu il giudice ucciso dalla Stidda?",  
         risposte : ["Domenico Abatemarco", "Rosario Livitano",
                  "Ludovico Acerbi", "Giovani Falcone", "Paolo Borsellino"],
-        rispostaCorretta : "Rosario Livitano",
+        rispostaCorretta : "Rosario Livitano"
     },
     {
         titolo : "Il consigliere ha l'autorità di dare degli ordini al boss.",  
         risposte : ["Vero", "Falso"],
-        rispostaCorretta : "Falso",
+        rispostaCorretta : "Falso"
     },
     {
         titolo : "Quale è la gerarchia corretta?",  
         risposte : ["Boss - Caporegime - Vicecapo - Consigliere", "Boss - Consigliere - Vicecapo - Caporegime", "Consigliere - Boss - Caporegime - Vicecapo", "Consigliere - Boss - Vicecapo - Caporegime"],
-        rispostaCorretta : "Boss - Consigliere - Vicecapo - Caporegime",
+        rispostaCorretta : "Boss - Consigliere - Vicecapo - Caporegime"
     },
     {
         titolo : "Un soldato può ricoprire altre cariche.",  
         risposte : ["Vero", "Falso"],
-        rispostaCorretta : "Vero",
+        rispostaCorretta : "Vero"
     },
     {
         titolo : "Il riciclaggio è:",  
-        risposte : ["Un insieme di strategie e metodologie volte al recupero di materiali utili dai rifiuti al fine di riutilizzarli","una serie di pratiche utilizzata dalla criminalità organizzata per coprire denaro sporco","Entrambi", "Nessuna delle risposte precedenti."],
-        rispostaCorretta : "Entrambi",
+        risposte : ["Un insieme di strategie volte al recupero di materiali utili dai rifiuti al fine di riutilizzarli","Una serie di pratiche utilizzata dalla criminalità organizzata per coprire denaro sporco","Entrambi", "Nessuna delle risposte precedenti"],
+        rispostaCorretta : "Entrambi"
     },
     {
-        titolo : "",  
-        risposte : [""],
-        rispostaCorretta : "",
+        titolo : "La pratica dell'usura è illegale, per quale ragione?",  
+        risposte : ["Non è pemesso effettuare prestiti in cambio di interessi oltre un certo limite", "Non è permesso, ad un privato, prestare dei soldi ad altri","Non è permesso, ad un privato, applicare alcun tipo di interesse su un prestito da egli effettuato", "L'usura non è un reato"],
+        rispostaCorretta : "Non è pemesso effettuare prestiti in cambio di interessi oltre un certo limite"
     },
     {
-        titolo : "",  
-        risposte : [""],
-        rispostaCorretta : "",
+        titolo : "Quale di questi reati implica la riscossione del cosiddetto «pizzo»?",  
+        risposte : ["Traffico di droga", "Usura", "Riciclaggio", "Estorsione"],
+        rispostaCorretta : "Estorsione"
     },
     {
-        titolo : "",  
-        risposte : [""],
-        rispostaCorretta : "",
+        titolo : "L'appalto è:",  
+        risposte : ["Un reato punito dalla legge","Un contratto tra due parti"],
+        rispostaCorretta : "Un contratto tra due parti"
     },
     {
-        titolo : "",  
-        risposte : [""],
-        rispostaCorretta : "",
+        titolo : "Quale dei seguenti è considerato, secondo la legge italiana, un reato?",  
+        risposte : ["Prostituzione", "Sfruttamento della prostitizione", "Tutte risposte precedenti", "Nessuna delle risposte precedenti"],
+        rispostaCorretta : "Sfruttamento della prostitizione"
     }
 
 
