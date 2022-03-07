@@ -43,7 +43,7 @@ main {
     transform: none;
     cursor: default;
 
-    background: #20403b;
+    background: var(--color-cards);
       
     max-height: 70%;
     max-width: 55%;

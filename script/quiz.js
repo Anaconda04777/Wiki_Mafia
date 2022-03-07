@@ -15,7 +15,7 @@ const domande = [
     {
         titolo : "Su quali di questi testi è basata la simbologia numerica della Triade?",  
         risposte : ["Il Libro dei mutamenti", "Il Libro dei riti", "L'I Ching", "Gli Annali delle primavere e degli autunni "],
-        rispostaCorretta : "risposta 2",
+        rispostaCorretta : "L'I Ching",
     },
     {
         titolo : "Che tipo di struttura adotta l'Organizacija?",  
@@ -79,26 +79,26 @@ const domande = [
     {
         titolo : "Il riciclaggio è:",  
         risposte : ["Un insieme di strategie e metodologie volte al recupero di materiali utili dai rifiuti al fine di riutilizzarli","una serie di pratiche utilizzata dalla criminalità organizzata per coprire denaro sporco","Entrambi", "Nessuna delle risposte precedenti."],
-        rispostaCorretta : "Vero",
+        rispostaCorretta : "Entrambi",
     },
     {
         titolo : "",  
-        risposte : [],
+        risposte : [""],
         rispostaCorretta : "",
     },
     {
         titolo : "",  
-        risposte : [],
+        risposte : [""],
         rispostaCorretta : "",
     },
     {
         titolo : "",  
-        risposte : [],
+        risposte : [""],
         rispostaCorretta : "",
     },
     {
         titolo : "",  
-        risposte : [],
+        risposte : [""],
         rispostaCorretta : "",
     }
 

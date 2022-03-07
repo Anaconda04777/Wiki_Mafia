@@ -4,10 +4,10 @@ al nostro progetto + cose utili*/
 /*colori*/
 :root {
     --color1: #2c2c2c;
-    --color2: #43a680;
-    --color-cards: #20403b;
+    --color2: #566D8A;
+    --color-cards: #181E25;
     --color-header-footer: rgba(250, 250, 250, 0.945);  
-    --color-card-box-shadow: rgba( 31, 38, 135, 0.37 );
+    --color-card-box-shadow: rgba(12, 11, 26, 0.37);
     --color-risposta-sbagliata: rgba(255, 0, 0, 0.712);
     --color-risposta-giusta: rgba(0, 255, 170, 0.712);
 }

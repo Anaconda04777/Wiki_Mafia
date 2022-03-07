@@ -21,6 +21,11 @@
   transition: transform 0.4s, opacity 0.1s 0.3s;
 }
 
+main {
+  margin-left: 20vw;
+  margin-right: 20vw;
+}
+
 #reato-3 > .newsCaption {
   transform: translateY(90%);
 }
@@ -47,7 +52,6 @@
 
 
 #container {  
-  margin: 0 5vw;
   display: grid;
   gap: 15px 15px;
   grid-auto-flow: row;

@@ -5,7 +5,11 @@ main {
 }
 
 main.card {
-    background-color: rgba(255, 255, 255, 0.089);
+    background-color: #6A99B4;
+}
+
+.domanda * {
+    color: var(--color1);
 }
 
 .pointer:hover {
