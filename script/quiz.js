@@ -62,9 +62,44 @@ const domande = [
         rispostaCorretta : "Rosario Livitano",
     },
     {
-        titolo : "Il consigliere ha l'autorità di dare degli ordini al boss?",  
+        titolo : "Il consigliere ha l'autorità di dare degli ordini al boss.",  
         risposte : ["Vero", "Falso"],
         rispostaCorretta : "Falso",
+    },
+    {
+        titolo : "Quale è la gerarchia corretta?",  
+        risposte : ["Boss - Caporegime - Vicecapo - Consigliere", "Boss - Consigliere - Vicecapo - Caporegime", "Consigliere - Boss - Caporegime - Vicecapo", "Consigliere - Boss - Vicecapo - Caporegime"],
+        rispostaCorretta : "Boss - Consigliere - Vicecapo - Caporegime",
+    },
+    {
+        titolo : "Un soldato può ricoprire altre cariche.",  
+        risposte : ["Vero", "Falso"],
+        rispostaCorretta : "Vero",
+    },
+    {
+        titolo : "Il riciclaggio è:",  
+        risposte : ["Un insieme di strategie e metodologie volte al recupero di materiali utili dai rifiuti al fine di riutilizzarli","una serie di pratiche utilizzata dalla criminalità organizzata per coprire denaro sporco","Entrambi", "Nessuna delle risposte precedenti."],
+        rispostaCorretta : "Vero",
+    },
+    {
+        titolo : "",  
+        risposte : [],
+        rispostaCorretta : "",
+    },
+    {
+        titolo : "",  
+        risposte : [],
+        rispostaCorretta : "",
+    },
+    {
+        titolo : "",  
+        risposte : [],
+        rispostaCorretta : "",
+    },
+    {
+        titolo : "",  
+        risposte : [],
+        rispostaCorretta : "",
     }
 
 
@@ -98,24 +133,24 @@ function creaElementi() {
         <div id=${i} class="hide f-l">
             <h2>${i+1}) ${e.titolo}</h2>
             <ol>
-                <li class="m0">${e.risposte[0]}</li>
-                <li class="m0">${e.risposte[1]}</li>
-                <li class="m0">${e.risposte[2]}</li>
-                <li class="m0">${e.risposte[3]}</li>
+                ${addRiposte(e)}
             </ol>
         </div>
         `
     });
 
     
-    
     //tabella domande
     for (let i = 0; i < domande.length; i++) {
-        tabellaDomande.innerHTML += `<div class="card m0 centrator c${i}">${i+1}</div>`
+        tabellaDomande.innerHTML += `<div class="card m0 centrator">${i+1}</div>`
     }
 
-    
+}
 
+function addRiposte(e) {
+    let x = "";
+    e.risposte.forEach(g => x += `<li class="m0">${g}</li>`);
+    return x;
 }
 
 function eventListenerDomande(e) {

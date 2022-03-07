@@ -1,3 +1,8 @@
+
+// Per il prof Ugolotti: questa pagina è stata fatta interamente dallo studente Giuseppe Didonna.
+// La studentessa De Marinis Ilaria ci tiene a dichiarare che non approva il metodo da lui utilizzato e la ringrazie per la sua attenzione e comprensione.
+
+
 let btnCamorra
 let btnNdrangheta
 let btnSacraCorona

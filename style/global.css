@@ -14,6 +14,9 @@ al nostro progetto + cose utili*/
 
 body {
     background-color: var(--color2);
+    min-height: 100vh;
+    display:flex; 
+    flex-direction:column;
 }
 
 * {
@@ -27,12 +30,12 @@ p {
     font-weight: lighter;
 }
 main {
-    margin: 0 15vw;
+    margin-top: 3vh;
+    margin-bottom: 3vh;
 }
 /*header -----------------*/
 
 header {
-    margin-bottom: 1.5rem;
     background-color: var(--color1);
 }
 
@@ -56,9 +59,8 @@ header * {
 footer {
     display: flex;
     justify-content: space-between;
-    margin-top: 1.5rem;
+    margin-top: auto;
     background-color: var(--color1);
-
 }
 
 footer * {

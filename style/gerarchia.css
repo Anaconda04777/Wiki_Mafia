@@ -1,4 +1,9 @@
 
+main {
+  margin-left: 20vw;
+  margin-right: 20vw;
+}
+
 .card {
   position: relative;
   /*ho tolto il min-height: perchè se no la card consigliere veniva più alta delle altre;*/
@@ -75,7 +80,6 @@ svg {
 
 /*-------------------*/
 #container {
-  margin: 0 10vw; /*ma questo margin? ti consiglio di toglierlo, schiaccia troppo le card, al massimo lavora sulle*/
   display: grid; 
   grid-template-columns: 1fr 1.5fr 1fr; 
   grid-template-rows: 1fr 1fr 0.7fr 0.7fr 0.7fr; 
@@ -100,7 +104,8 @@ svg {
 @media only screen and (max-width: 1230px) {
 
   main {
-    margin: 0 10vw;
+    margin-left: 10vw;
+    margin-right: 10vw;
   }
 
   #container {
@@ -121,7 +126,8 @@ svg {
 
 @media only screen and (max-width: 700px) {
   main {
-      margin: 0 0;
+    margin-left: 3vw;
+    margin-right: 3vw;
   }
 
   #container {

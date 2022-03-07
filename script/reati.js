@@ -10,7 +10,7 @@ const reati = [
         titolo:"Usura",
         id:"reato-2",
         img:"../Assets/reati/usura.jpg",
-        testo:"L'usura è la pratica che consiste nel fornire prestiti a tassi di interesse molto elevati, tali da rendere il loro rimborso molto difficile o impossibile. questa pratica illegale può spingere il debitore ad accettare condizioni svantaggiose, per esempio nella vendita di un bene as un prezzo più basso del suo valore effettivo, oppure il creditore a compiere atti illeciti ai danni del debitore per indurlo a pagare."
+        testo:"L'usura è la pratica che consiste nel fornire prestiti a tassi di interesse molto elevati, tali da rendere il loro rimborso molto difficile o impossibile. Questa pratica illegale può spingere il debitore ad accettare condizioni svantaggiose, per esempio nella vendita di un bene as un prezzo più basso del suo valore effettivo, oppure il creditore a compiere atti illeciti ai danni del debitore per indurlo a pagare."
     },
     {
         titolo:"Appalti illeciti",
@@ -22,13 +22,13 @@ const reati = [
         titolo:"Estorsione",
         id:"reato-4",
         img:"../Assets/reati/estorsione.png",
-        testo:"L'estorsione, in diritto, è un reato commesso da chi, con violenza o minaccia, costringe uno o più soggetti a fare o a non fare qualche atto, procura a sé o ad altri un ingiusto profitto con altrui danno. </br> in particolare, la mafia si serve della cosiddetta «protezione», un'attività criminale inquadrabile nell'ambito del racket(attività criminali finalizzate a controllare determinati settori delle attività economiche e commerciali), generalmente volta ad ottenere da parte di un operatore economico un pagamento periodico in cambio di una presunta offerta di protezione (o, In Italia, «pizzo»)."
+        testo:"L'estorsione, in diritto, è un reato commesso da chi, con violenza o minaccia, costringe uno o più soggetti a fare o a non fare qualche atto, procura a sé o ad altri un ingiusto profitto con altrui danno. </br> In particolare, la mafia si serve della cosiddetta «protezione», un'attività criminale inquadrabile nell'ambito del racket(attività criminali finalizzate a controllare determinati settori delle attività economiche e commerciali), generalmente volta ad ottenere da parte di un operatore economico un pagamento periodico in cambio di una presunta offerta di protezione (o, In Italia, «pizzo»)."
     },
     {
         titolo:"Traffico e Spaccio di droga",
         id:"reato-5",
         img:"../Assets/reati/spaccio.jpg",
-        testo:"Il traffico di droga, propriamente narcotraffico, o traffico di stupefacenti, è il sistema di compravendita illegale delle sostanze stupefacenti. </br> Quest’attività è considerata una delle principali fonti di entrate di tutte le organizzazioni criminali di stampo mafioso, nonché dei cosiddetti cartelli della droga dell'America centrale e dell'America Latina."
+        testo:"Il traffico di droga, propriamente narcotraffico, o traffico di stupefacenti, è il sistema di compravendita illegale delle sostanze stupefacenti. </br> Quest’attività è considerata una delle principali fonti di entrate di tutte le organizzazioni criminali di stampo mafioso, specialmente per i cosiddetti cartelli della droga dell'America centrale e dell'America Latina."
     },
     {
         titolo:"Sfruttamento della Prostituzione",

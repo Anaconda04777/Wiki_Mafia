@@ -1,12 +1,7 @@
 main {
     display: flex;
-    margin-bottom: auto;
-    margin: 0 10vw;
-}
-
-
-footer {
-    margin-top: 19.7%;
+    margin-left: 10vw;
+    margin-right: 10vw;
 }
 
 main.card {
@@ -170,7 +165,6 @@ li {
 
 @media only screen and (max-width: 700px) {
     main {
-        margin: 0 10vw;
         justify-content: center;
         align-items: center;
     }
