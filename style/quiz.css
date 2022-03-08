@@ -20,7 +20,7 @@ main.card {
 .pointer {
     transition: all .2s ease-in-out;
 }
-/*tabella domander*/
+
 .tabella-domande .card{
     max-width: 2vw;
     max-height: 2vh;
@@ -35,7 +35,6 @@ main.card {
     width: 10px;
 }
 
-/*mettere un grid*/
 .tabella-domande {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;

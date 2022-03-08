@@ -6,7 +6,6 @@ main {
 
 .card {
   position: relative;
-  /*ho tolto il min-height: perchè se no la card consigliere veniva più alta delle altre;*/
   height: 31vh;
   overflow: hidden;
 }
@@ -40,19 +39,15 @@ main {
   transition: transform 0.4s, opacity 0.1s;
 }
 
-/*immgaini bg*/
 .card {
     background-image: url();
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
 
-/*freccia per i vari margin pensaci tu*/
 .ruolo {
   display: flex;
   flex-direction: column;
-  /*così da avere la freccia centrata se no si allargherebbe troppo la card 
-  (per quanto riguarda la card consigliere, per questioni di coerenze meglio metterlo su tutti)*/
   height: fit-content;
 
 }
@@ -65,7 +60,7 @@ svg {
   
   
 }
-/*faccio più grande la card e la metto dopo la freccia*/
+
 .ruolo1 .card {
   flex-grow: 2;
   order: 1;
@@ -147,7 +142,7 @@ svg {
     
     
   }
-  /*faccio più grande la card e la metto dopo la freccia*/
+  
   .ruolo1 .card {
     order: 0;
     width: 60%;

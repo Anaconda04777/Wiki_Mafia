@@ -63,7 +63,6 @@ window.onload = function() {
         </div>
         
         `
-
         let x = document.querySelector(`#${ruoli[i].id}`);
         x.style.backgroundImage = `url(${ruoli[i].img})`;
     }

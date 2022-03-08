@@ -237,14 +237,3 @@ function addHide(ogg) {
 function removeHide(ogg) {
     ogg.classList.remove("hide")
 }
-
-/*animazione da completare*/
-/*function assStileFine(ogg, classe, visione) {
-    (async () => {
-        ogg.classList.add(classe)
-        await delay(TEMPOFINE);
-        visione ? addHide(ogg) : removeHide(ogg)
-        ogg.classList.toggle(classe)
-      })();
-}*/
-

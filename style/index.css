@@ -31,7 +31,7 @@ main {
 .card {
     transition: all .2s ease-in-out;
 }
-/*tolgo animazione dell'immagine */
+
 .img-apertura.card {
     padding: 0;
 }

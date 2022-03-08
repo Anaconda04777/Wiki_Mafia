@@ -70,7 +70,7 @@ main {
     align-items: center;
 }
 
-/* attenzione a cambiare la sequenza (guarda js) */
+
 .modal .card > div:first-child img {
     width: 30px;
     height: 30px;
