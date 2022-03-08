@@ -42,9 +42,6 @@ const ruoli = [
 window.onload = function() {
     let container = document.querySelector("#container");
     for (let i=0; i< ruoli.length; i++) { 
-        //ho messo un div in più con una classe (puoi sost. con un id) per averlo unico e per pingarlo al grid
-        //ho messo anche una classe per il container più grande, è importante che rimanga
-        //poi ho messo l'svg fatto con questa pagina (se vuoi cambiare qualche parametro) https://tablericons.com/
         container.innerHTML += ` 
         <div class="ruolo${i} ruolo"> 
             <div class='card news-Slide-up' id='${ruoli[i].id}'>
@@ -66,8 +63,6 @@ window.onload = function() {
         </div>
         
         `
-        //quella selezione l'ho fatta per togliere la freccia dall'ultima card, 
-        //è più elegante di mettere un width: 0 e un height: 0
         let x = document.querySelector(`#${ruoli[i].id}`);
         x.style.backgroundImage = `url(${ruoli[i].img})`;
     }

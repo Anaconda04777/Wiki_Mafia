@@ -1,5 +1,3 @@
-/*classi predefinite che daranno uno standard dimensionale 
-al nostro progetto + cose utili*/
 
 /*colori*/
 :root {
@@ -130,7 +128,6 @@ footer .pagine a {
 .no-pointer {
     pointer-events: none;
 }
-/*paletta (pensavo ad un marrone-verde (cerchiamo di trovare un compromesso sui gradient ;) ))*/
 
 .bg1 {
     background: var(--color1);
